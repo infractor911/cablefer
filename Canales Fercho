@@ -175,7 +175,7 @@ http://161.97.74.226:25461/ALLTUTOSTV/pritlew/10123
 
 #EXTINF:-1 ,FOOD NETWORK 
 
-http://cinematicket.club/tp2.php?c=2145&p=3&k=tecnotv&f=.m3u8
+http://cinematicket.club/tv.php?c=2145&p=3&k=tecnotv&f=.m3u8
 
 #EXTINF:-1 ,STARZ
 
@@ -187,11 +187,11 @@ http://cinematicket.club/tv.php?c=128&p=3&k=tecnotv&f=.m3u8
 
 #EXTINF:-1 ,TOONCAST
 
-http://cinematicket.club/tp2.php?c=108&p=3&k=tecnotv&f=.m3u8
+http://cinematicket.club/tv.php?c=108&p=3&k=tecnotv&f=.m3u8
 
 #EXTINF:-1 ,TRUTV
 
-http://cinematicket.club/tp2.php?c=215&p=3&k=tecnotv&f=.m3u8
+http://cinematicket.club/tv.php?c=215&p=3&k=tecnotv&f=.m3u8
 
 #EXTINF:-1 ,HISTORY CHANNEL 2
 
@@ -207,7 +207,7 @@ http://cinematicket.club/tp2.php?c=203&p=3&k=tecnotv&f=.m3u8
 
 #EXTINF:-1 , ADN40
 
-http://cinematicket.club/tp2.php?c=184&p=3&k=tecnotv&f=.m3u8
+http://cinematicket.club/tv.php?c=184&p=3&k=tecnotv&f=.m3u8
 
 #EXTINF:-1 , BET ME 
 
@@ -217,4 +217,4 @@ http://cinematicket.club/tp2.php?c=2591&p=3&k=tecnotv&f=.m3u8
 
 http://cinematicket.club/tv.php?c=129&p=3&k=tecnotv&f=.m3u8
 
-
+ 
