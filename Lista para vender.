@@ -1,4 +1,3 @@
-
 #EXTM3U
 
 #EXTINF:-1 ,FOX
@@ -99,6 +98,9 @@ https://blackaddon.com/scr/se9.php?c=92&f=.m3u8
 
 #EXTINF:-1 ,NAT GEO
 https://blackaddon.com/scr/se9.php?c=128&f=.m3u8
+
+#EXTINF:-1 ,NATIONAL GEOGRAPHIC
+https://tecnoplay.club/fest/principal.php?c=131&f=.m3u8
 
 #EXTINF:-1 ,FOX SPORT 2
 https://blackaddon.com/scr/se9.php?c=74&f=.m3u8
