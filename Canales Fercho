@@ -12,8 +12,11 @@ http://cinematicket.club/tp12.php?c=1942&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 , TNT
 http://cinematicket.club/tp12.php?c=126&p=3&k=tecnotv&f=.m3u8
 
+#EXTINF:-1 ,TNT SERIES
+http://cinematicket.club/tp12.php?c=71&p=3&k=tecnotv&f=.m3u8
+
 #EXTINF:-1 ,ESTUDIO UNIVERSAL 
-http://cinematicket.club/tv1.php?c=132&p=3&k=tecnotv&f=.m3u8
+http://cinematicket.club/tp12.php?c=132&p=3&k=tecnotv&f=.m3u8
 
 #EXTINF:-1 ,FXM
 http://cinematicket.club/tp12.php?c=138&p=3&k=tecnotv&f=.m3u8
@@ -49,13 +52,22 @@ http://cinematicket.club/tp12.php?c=205&p=3&k=tecnotv&f=.m3u8
 http://cinematicket.club/tp12.php?c=60&p=3&k=tecnotv&f=.m3u8
 
 #EXTINF:-1 ,A&E
-http://cinematicket.club/tv1.php?c=62&p=3&k=tecnotv&f=.m3u8
+http://cinematicket.club/tp12.php?c=62&p=3&k=tecnotv&f=.m3u8
 
 #EXTINF:-1 ,UNIVERSAL HD
 http://cinematicket.club/tp12.php?c=207&p=3&k=tecnotv&f=.m3u8
 
 #EXTINF:-1 ,FX HD
 http://cinematicket.club/tp12.php?c=209&p=3&k=tecnotv&f=.m3u8
+
+#EXTINF:-1 ,GOLDEN+
+http://cinematicket.club/tp12.php?c=122&p=3&k=tecnotv&f=.m3u8
+
+#EXTINF:-1 ,GOLDEN 
+http://cinematicket.club/tp12.php?c=123&p=3&k=tecnotv&f=.m3u8
+
+#EXTINF:-1, GOLDEN EDGE
+http://cinematicket.club/tp12.php?c=124&p=3&k=tecnotv&f=.m3u8
 
 #EXTINF:-1 ,HISTORY CHANNEL 
 http://cinematicket.club/tp12.php?c=89&p=3&k=tecnotv&f=.m3u8
