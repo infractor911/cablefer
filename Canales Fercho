@@ -9,6 +9,9 @@ http://cinematicket.club/tp12.php?c=4&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 ,CANAL 11
 http://cinematicket.club/tp12.php?c=1942&p=3&k=tecnotv&f=.m3u8
 
+#EXTINF:-1 , SPACE 
+http://cinematicket.club/tp12.php?c=129&p=3&k=tecnotv&f=.m3u8
+
 #EXTINF:-1 , TNT
 http://cinematicket.club/tp12.php?c=126&p=3&k=tecnotv&f=.m3u8
 
@@ -126,14 +129,11 @@ http://cinematicket.club/tp12.php?c=215&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 ,DW Documental
 http://cinematicket.club/tp12.php?c=203&p=3&k=tecnotv&f=.m3u8
 
-#EXTINF:-1 , ADN40
+#EXTINF:-1 ,ADN40
 http://cinematicket.club/tv1.php?c=184&p=3&k=tecnotv&f=.m3u8
 
-#EXTINF:-1 , BET ME 
+#EXTINF:-1 ,BET ME 
 http://cinematicket.club/tp2.php?c=2591&p=3&k=tecnotv&f=.m3u8
-
-#EXTINF:-1 , SPACE 
-http://cinematicket.club/tp12.php?c=129&p=3&k=tecnotv&f=.m3u8
 
 #EXTINF:-1 ,HBO FAMILY
 http://mains.vip:2086/craigg/1Lurn7m3F1/92570
@@ -149,3 +149,29 @@ http://mains.vip:2086/craigg/1Lurn7m3F1/92571
 
 #EXTINF:-1 ,HBO SIGNATURE
 http://mains.vip:2086/craigg/1Lurn7m3F1/66678
+
+#EXTINF:-1 ,24/7 LOS SIMPSON 
+http://zufreelist.net:8080/golcaracolllgolcaracolllgolcaracolllgolcaracolll/golcaracolllgolcaracolllgolcaracolllgolcaracolllgolcaracolll/877
+
+#EXTINF:-1 ,24/7CORAJE EL PERRO COBARDE
+http://zufreelist.net:8080/golcaracolllgolcaracolllgolcaracolllgolcaracolll/golcaracolllgolcaracolllgolcaracolllgolcaracolllgolcaracolll/873
+
+#EXTINF:-1 ,24/7 FUTURAMA
+http://zufreelist.net:8080/golcaracolllgolcaracolllgolcaracolllgolcaracolll/golcaracolllgolcaracolllgolcaracolllgolcaracolllgolcaracolll/902
+
+#EXTINF:-1 ,24/7JUEGOS DE TRONOS
+http://zufreelist.net:8080/golcaracolllgolcaracolllgolcaracolllgolcaracolll/golcaracolllgolcaracolllgolcaracolllgolcaracolllgolcaracolll/906
+
+#EXTINF:-1 ,24/7LA PANTERA ROSA
+http://zufreelist.net:8080/golcaracolllgolcaracolllgolcaracolllgolcaracolll/golcaracolllgolcaracolllgolcaracolllgolcaracolllgolcaracolll/910
+
+#EXTINF:-1 ,PELÍCULAS TERROR
+http://zufreelist.net:8080/golcaracolllgolcaracolllgolcaracolllgolcaracolll/golcaracolllgolcaracolllgolcaracolllgolcaracolllgolcaracolll/920
+
+#EXTINF:-1 ,PELÍCULAS ESTRENOS 2018
+http://zufreelist.net:8080/golcaracolllgolcaracolllgolcaracolllgolcaracolll/golcaracolllgolcaracolllgolcaracolllgolcaracolllgolcaracolll/921
+
+#EXTINF:-1 ,MALCOM 
+http://zufreelist.net:8080/golcaracolllgolcaracolllgolcaracolllgolcaracolll/golcaracolllgolcaracolllgolcaracolllgolcaracolllgolcaracolll/917
+
+
