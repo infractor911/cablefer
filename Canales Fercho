@@ -1,10 +1,13 @@
 #EXTM3U
 
 #EXTINF:-1 ,MILENIO NOTICIAS
-http://cinematicket.club/tp12.php?c=1250&p=3&k=tecnotv&f=.m3u8
+http://cinematicket.club/cantp.php?c=1250&p=3&k=tecnotv&f=.m3u8
 
 #EXTINF:-1 ,FORO TV
-http://cinematicket.club/tp12.php?c=4&p=3&k=tecnotv&f=.m3u8
+http://cinematicket.club/cantp.php?c=4&p=3&k=tecnotv&f=.m3u8
+
+#EXTINF:-1 ,ADN40
+http://cinematicket.club/cantp.php?c=184&p=3&k=tecnotv&f=.m3u8
 
 #EXTINF:-1 ,CANAL 11
 http://cinematicket.club/tp12.php?c=1942&p=3&k=tecnotv&f=.m3u8
@@ -72,6 +75,9 @@ http://cinematicket.club/tp12.php?c=124&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 ,HISTORY CHANNEL 
 http://cinematicket.club/tp12.php?c=89&p=3&k=tecnotv&f=.m3u8
 
+#EXTINF:-1 ,H2
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/114
+
 #EXTINF:-1 ,DISCOVERY iD
 http://cinematicket.club/tp12.php?c=68&p=3&k=tecnotv&f=.m3u8
 
@@ -122,9 +128,6 @@ http://cinematicket.club/tp12.php?c=215&p=3&k=tecnotv&f=.m3u8
 
 #EXTINF:-1 ,DW Documental
 http://cinematicket.club/tp12.php?c=203&p=3&k=tecnotv&f=.m3u8
-
-#EXTINF:-1 ,ADN40
-http://cinematicket.club/tp12.php?c=184&p=3&k=tecnotv&f=.m3u8
 
 #EXTINF:-1 ,BET ME 
 http://cinematicket.club/tp2.php?c=2591&p=3&k=tecnotv&f=.m3u8
