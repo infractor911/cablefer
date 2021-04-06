@@ -1,144 +1,144 @@
-#EXTM3U
+#extm3u
 
-#EXTINF:-1 ,MILENIO NOTICIAS
-http://tecnotv.club/rpp/geomex2.php?c=1250&p=3&k=srregio&f=.m3u8
+#extinf:-1 ,milenio noticias
+http://tecnotv.club/wwp/geomex2.php?c=1250&p=3&k=srregio&f=.m3u8
 
-#EXTINF:-1 ,FORO TV
-http://tecnotv.club/rpp/geomex.php?c=4&p=3&k=srregio&f=.m3u8
+#extinf:-1 ,foro tv
+http://tecnotv.club/wwp/geomex.php?c=4&p=3&k=srregio&f=.m3u8
 
-#EXTINF:-1 ,ADN40
-http://tecnotv.club/rpp/geomex2.php?c=184&p=3&k=srregio&f=.m3u8
+#extinf:-1 ,adn40
+http://tecnotv.club/wwp/geomex2.php?c=184&p=3&k=srregio&f=.m3u8
 
-#EXTINF:-1 ,CNN
-http://tecnotv.club/rpp/geomex2.php?c=185&p=3&k=srregio&f=.m3u8
+#extinf:-1 ,cnn
+http://tecnotv.club/wwp/geomex2.php?c=185&p=3&k=srregio&f=.m3u8
 
-#EXTINF:-1 ,CANAL 11
-http://tecnotv.club/rpp/geomex2.php?c=1942&p=3&k=srregio&f=.m3u8
+#extinf:-1 ,canal 11
+http://tecnotv.club/wwp/geomex2.php?c=1942&p=3&k=srregio&f=.m3u8
 
-#EXTINF:-1 , SPACE 
-http://tecnotv.club/rpp/geomex2.php?c=129&p=3&k=srregio&f=.m3u8
+#extinf:-1 , space 
+http://tecnotv.club/wwp/geomex2.php?c=129&p=3&k=srregio&f=.m3u8
 
-#EXTINF:-1 , TNT
-http://tecnotv.club/rpp/geomex2.php?c=126&p=3&k=srregio&f=.m3u8
+#extinf:-1 , tnt
+http://tecnotv.club/wwp/geomex2.php?c=126&p=3&k=srregio&f=.m3u8
 
-#EXTINF:-1 ,TNT SERIES
-http://tecnotv.club/rpp/geomex2.php?c=71&p=3&k=srregio&f=.m3u8
+#extinf:-1 ,tnt series
+http://tecnotv.club/wwp/geomex2.php?c=71&p=3&k=srregio&f=.m3u8
 
-#EXTINF:-1 ,ESTUDIO UNIVERSAL 
-http://tecnotv.club/rpp/geomex2.php?c=132&p=3&k=srregio&f=.m3u8
+#extinf:-1 ,estudio universal 
+http://tecnotv.club/wwp/geomex2.php?c=132&p=3&k=srregio&f=.m3u8
 
-#EXTINF:-1 ,FXM
-http://tecnotv.club/rpp/geomex2.php?c=138&p=3&k=srregio&f=.m3u8
+#extinf:-1 ,fxm
+http://tecnotv.club/wwp/geomex2.php?c=138&p=3&k=srregio&f=.m3u8
 
-#EXTINF:-1 ,FOX MOVIES 
-http://tecnotv.club/rpp/geomex2.php?c=146&p=3&k=srregio&f=.m3u8
+#extinf:-1 ,fox movies 
+http://tecnotv.club/wwp/geomex2.php?c=146&p=3&k=srregio&f=.m3u8
 
-#EXTINF:-1 ,CINECANAL
-http://tecnotv.club/rpp/geomex2.php?c=149&p=3&k=srregio&f=.m3u8
+#extinf:-1 ,cinecanal
+http://tecnotv.club/wwp/geomex2.php?c=149&p=3&k=srregio&f=.m3u8
 
-#EXTINF:-1 ,CINEMAX
-http://tecnotv.club/rpp/geomex2.php?c=158&p=3&k=srregio&f=.m3u8
+#extinf:-1 ,cinemax
+http://tecnotv.club/wwp/geomex2.php?c=158&p=3&k=srregio&f=.m3u8
 
-#EXTINF:-1 ,AMC
-http://tecnotv.club/rpp/geomex2.php?c=328&p=3&k=srregio&f=.m3u8
+#extinf:-1 ,amc
+http://tecnotv.club/wwp/geomex2.php?c=328&p=3&k=srregio&f=.m3u8
 
-#EXTINF:-1 ,FOX ACTION
-http://tecnotv.club/rpp/geomex2.php?c=336&p=3&k=srregio&f=.m3u8
+#extinf:-1 ,fox action
+http://tecnotv.club/wwp/geomex2.php?c=336&p=3&k=srregio&f=.m3u8
 
-#EXTINF:-1 ,PARAMOUNT CHANNEL
-http://tecnotv.club/rpp/geomex2.php?c=1726&p=3&k=srregio&f=.m3u8
+#extinf:-1 ,paramount channel
+http://tecnotv.club/wwp/geomex2.php?c=1726&p=3&k=srregio&f=.m3u8
 
-#EXTINF:-1 ,FOX
-http://tecnotv.club/rpp/geomex2.php?c=201&p=3&k=srregio&f=.m3u8
+#extinf:-1 ,fox
+http://tecnotv.club/wwp/geomex2.php?c=201&p=3&k=srregio&f=.m3u8
 
-#EXTINF:-1 ,SONY
-http://tecnotv.club/rpp/geomex2.php?c=48&p=3&k=srregio&f=.m3u8
+#extinf:-1 ,sony
+http://tecnotv.club/wwp/geomex2.php?c=48&p=3&k=srregio&f=.m3u8
 
-#EXTINF:-1 ,WARNER
-http://tecnotv.club/rpp/geomex2.php?c=205&p=3&k=srregio&f=.m3u8
+#extinf:-1 ,warner
+http://tecnotv.club/wwp/geomex2.php?c=205&p=3&k=srregio&f=.m3u8
 
-#EXTINF:-1 ,A&E
-http://tecnotv.club/rpp/geomex2.php?c=62&p=3&k=srregio&f=.m3u8
+#extinf:-1 ,a&e
+http://tecnotv.club/wwp/geomex2.php?c=62&p=3&k=srregio&f=.m3u8
 
-#EXTINF:-1 ,UNIVERSAL
-http://tecnotv.club/rpp/geomex2.php?c=207&p=3&k=srregio&f=.m3u8
+#extinf:-1 ,universal
+http://tecnotv.club/wwp/geomex2.php?c=207&p=3&k=srregio&f=.m3u8
 
-#EXTINF:-1 ,FX 
-http://tecnotv.club/rpp/geomex2.php?c=209&p=3&k=srregio&f=.m3u8
+#extinf:-1 ,fx 
+http://tecnotv.club/wwp/geomex2.php?c=209&p=3&k=srregio&f=.m3u8
 
-#EXTINF:-1 ,GOLDEN+
-http://tecnotv.club/rpp/geomex2.php?c=122&p=3&k=srregio&f=.m3u8
+#extinf:-1 ,golden+
+http://tecnotv.club/wwp/geomex2.php?c=122&p=3&k=srregio&f=.m3u8
 
-#EXTINF:-1 ,GOLDEN 
-http://tecnotv.club/rpp/geomex2.php?c=123&p=3&k=srregio&f=.m3u8
+#extinf:-1 ,golden 
+http://tecnotv.club/wwp/geomex2.php?c=123&p=3&k=srregio&f=.m3u8
 
-#EXTINF:-1, GOLDEN EDGE
-http://tecnotv.club/rpp/geomex2.php?c=124&p=3&k=srregio&f=.m3u8
+#extinf:-1, golden edge
+http://tecnotv.club/wwp/geomex2.php?c=124&p=3&k=srregio&f=.m3u8
 
-#EXTINF:-1 ,HISTORY CHANNEL 
-http://tecnotv.club/rpp/geomex2.php?c=89&p=3&k=srregio&f=.m3u8
+#extinf:-1 ,history channel 
+http://tecnotv.club/wwp/geomex2.php?c=89&p=3&k=srregio&f=.m3u8
 
-#EXTINF:-1 ,DISCOVERY iD
-http://tecnotv.club/rpp/geomex2.php?c=68&p=3&k=srregio&f=.m3u8
+#extinf:-1 ,discovery id
+http://tecnotv.club/wwp/geomex2.php?c=68&p=3&k=srregio&f=.m3u8
 
-#EXTINF:-1 ,DISCOVERY CHANNEL
-http://tecnotv.club/rpp/geomex2.php?c=86&p=3&k=srregio&f=.m3u8
+#extinf:-1 ,discovery channel
+http://tecnotv.club/wwp/geomex2.php?c=86&p=3&k=srregio&f=.m3u8
 
-#EXTINF:-1 ,ANIMAL PLANET
-http://tecnotv.club/rpp/geomex2.php?c=88&p=3&k=srregio&f=.m3u8
+#extinf:-1 ,animal planet
+http://tecnotv.club/wwp/geomex2.php?c=88&p=3&k=srregio&f=.m3u8
 
-#EXTINF:-1 ,NAT GEO
-http://tecnotv.club/rpp/geomex2.php?c=91&p=3&k=srregio&f=.m3u8
+#extinf:-1 ,nat geo
+http://tecnotv.club/wwp/geomex2.php?c=91&p=3&k=srregio&f=.m3u8
 
-#EXTINF:-1 ,NAT GEO WILD
-http://tecnotv.club/rpp/geomex2.php?c=92&p=3&k=srregio&f=.m3u8
+#extinf:-1 ,nat geo wild
+http://tecnotv.club/wwp/geomex2.php?c=92&p=3&k=srregio&f=.m3u8
 
-#EXTINF:-1 ,DISCOVERY THEATER
-http://tecnotv.club/rpp/geomex2.php?c=95&p=3&k=srregio&f=.m3u8
+#extinf:-1 ,discovery theater
+http://tecnotv.club/wwp/geomex2.php?c=95&p=3&k=srregio&f=.m3u8
 
-#EXTINF:-1 ,DISCOVERY CIVILIZACION
-http://tecnotv.club/rpp/geomex2.php?c=99&p=3&k=srregio&f=.m3u8
+#extinf:-1 ,discovery civilizacion
+http://tecnotv.club/wwp/geomex2.php?c=99&p=3&k=srregio&f=.m3u8
 
-#EXTINF:-1 ,DISCOVERY H&H
-http://tecnotv.club/rpp/geomex2.php?c=96&p=3&k=srregio&f=.m3u8
+#extinf:-1 ,discovery h&h
+http://tecnotv.club/wwp/geomex2.php?c=96&p=3&k=srregio&f=.m3u8
 
-#EXTINF:-1 ,DISCOVERY SCIENCE
-http://tecnotv.club/rpp/geomex2.php?c=98&p=3&k=srregio&f=.m3u8
+#extinf:-1 ,discovery science
+http://tecnotv.club/wwp/geomex2.php?c=98&p=3&k=srregio&f=.m3u8
 
-#EXTINF:-1 ,DISCOVERY WORLD
-http://tecnotv.club/rpp/geomex2.php?c=101&p=3&k=srregio&f=.m3u8
+#extinf:-1 ,discovery world
+http://tecnotv.club/wwp/geomex2.php?c=101&p=3&k=srregio&f=.m3u8
 
-#EXTINF:-1 ,DISCOVERY TURBO 
-http://tecnotv.club/rpp/geomex2.php?c=2379&p=3&k=srregio&f=.m3u8
+#extinf:-1 ,discovery turbo 
+http://tecnotv.club/wwp/geomex2.php?c=2379&p=3&k=srregio&f=.m3u8
 
-#EXTINF:-1 ,FOOD NETWORK 
-http://tecnotv.club/rpp/geomex2.php?c=2145&p=3&k=srregio&f=.m3u8
+#extinf:-1 ,food network 
+http://tecnotv.club/wwp/geomex2.php?c=2145&p=3&k=srregio&f=.m3u8
 
-#EXTINF:-1 ,TCM
-http://tecnotv.club/rpp/geomex2.php?c=128&p=3&k=srregio&f=.m3u8
+#extinf:-1 ,tcm
+http://tecnotv.club/wwp/geomex2.php?c=128&p=3&k=srregio&f=.m3u8
 
-#EXTINF:-1 ,TOONCAST
-http://tecnotv.club/rpp/geomex2.php?c=108&p=3&k=srregio&f=.m3u8
+#extinf:-1 ,tooncast
+http://tecnotv.club/wwp/geomex2.php?c=108&p=3&k=srregio&f=.m3u8
 
-#EXTINF:-1 ,TRUTV
-http://tecnotv.club/rpp/geomex2.php?c=215&p=3&k=srregio&f=.m3u8
+#extinf:-1 ,trutv
+http://tecnotv.club/wwp/geomex2.php?c=215&p=3&k=srregio&f=.m3u8
 
-#EXTINF:-1 ,DW Documental
-http://tecnotv.club/rpp/geomex2.php?c=203&p=3&k=srregio&f=.m3u8
+#extinf:-1 ,dw documental
+http://tecnotv.club/wwp/geomex2.php?c=203&p=3&k=srregio&f=.m3u8
 
-#EXTINF:-1 ,BIT ME 
-http://tecnotv.club/rpp/geomex2.php?c=2591&p=3&k=srregio&f=.m3u8
+#extinf:-1 ,bit me 
+http://tecnotv.club/wwp/geomex2.php?c=2591&p=3&k=srregio&f=.m3u8
 
-#EXTINF:-1 ,GARAGE TV
-http://tecnotv.club/rpp/geomex2.php?c=75&p=3&k=srregio&f=.m3u8
+#extinf:-1 ,garage tv
+http://tecnotv.club/wwp/geomex2.php?c=75&p=3&k=srregio&f=.m3u8
 
-#EXTINF:-1 ,AXN
-http://tecnotv.club/rpp/geomex2.php?c=64&p=3&k=srregio&f=.m3u8
+#extinf:-1 ,axn
+http://tecnotv.club/wwp/geomex2.php?c=64&p=3&k=srregio&f=.m3u8
 
-#EXTINF:-1 ,UNICABLE 
-http://tecnotv.club/rpp/geomex2.php?c=1499&p=3&k=srregio&f=.m3u8
+#extinf:-1 ,unicable 
+http://tecnotv.club/wwp/geomex2.php?c=1499&p=3&k=srregio&f=.m3u8
 
-#EXTINF:-1 , películas
+#extinf:-1 , películas
 http://tecnotv.club/mmc/peliculas.m3u
 
 
