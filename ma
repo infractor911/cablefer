@@ -73,7 +73,7 @@ http://tecnotv.club/20ago21/smartv3.php?c=728&file=playlist.m3u8
 http://tecnotv.club/20ago21/smartv3.php?c=768&file=playlist.m3u8
 
 #EXTINF:-1 ,HISTORY CHANNEL 
-http://tecnotv.club/20ago21/smartv.php?c=history
+http://tecnotv.club/20ago21/smartv3.php?c=454&file=playlist.m3u8
 
 #EXTINF:-1 ,HISTORY 2
 http://tecnotv.club/20ago21/smartv.php?c=h2
@@ -140,3 +140,4 @@ https://rakuten-actionmovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 ,LOS SIMPSON
 https://videostreaming.cloudserverlatam.com/cloudservertv/cloudservertv/playlist.m3u8
+ 
