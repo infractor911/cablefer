@@ -4,7 +4,7 @@
 http://tecnotv.club/20ago21/smartv3.php?c=3460&file=playlist.m3u8
 
 #EXTINF:-1 ,AZTECA 7
-http://tecnotv.club/20ago21/smartv.php?c=azteca7hd
+http://tecnotv.club/20ago21/smartv3.php?c=3459&file=playlist.m3u8
 
 #EXTINF:-1 ,DISTRITO COMEDIA
 http://tecnotv.club/20ago21/smartv.php?c=distrito
@@ -55,7 +55,7 @@ http://tecnotv.club/20ago21/smartv2.php?c=a065
 http://tecnotv.club/20ago21/smartv2.php?c=a0a3
 
 #EXTINF:-1 ,FXM
-http://tecnotv.club/20ago21/smartv2.php?c=a074
+http://tecnotv.club/20ago21/smartv3.php?c=769&file=playlist.m3u8
 
 #EXTINF:-1 ,FOX MOVIES
 http://tecnotv.club/20ago21/smartv2.php?c=a0ck
@@ -67,13 +67,13 @@ http://tecnotv.club/20ago21/smartv.php?c=cinecanal
 http://tecnotv.club/20ago21/smartv.php?c=cinemax
 
 #EXTINF:-1 ,AMC
-http://tecnotv.club/20ago21/smartv2.php?c=a0b5
+http://tecnotv.club/20ago21/smartv3.php?c=629&file=playlist.m3u8
 
 #EXTINF:-1 ,PARAMOUNT CHANNEL
 http://tecnotv.club/20ago21/smartv2.php?c=a08y
 
 #EXTINF:-1 ,FOX
-http://tecnotv.club/20ago21/smartv.php?c=starch
+http://tecnotv.club/20ago21/smartv3.php?c=671&file=playlist.m3u8
 
 #EXTINF:-1 ,FOX LIFE
 http://tecnotv.club/20ago21/smartv.php?c=starlife
@@ -88,7 +88,7 @@ http://tecnotv.club/20ago21/smartv.php?c=warner
 http://tecnotv.club/20ago21/smartv.php?c=ae
 
 #EXTINF:-1 ,FX 
-http://tecnotv.club/20ago21/smartv2.php?c=a074
+http://tecnotv.club/20ago21/smartv3.php?c=768&file=playlist.m3u8
 
 #EXTINF:-1 ,HISTORY CHANNEL 
 http://tecnotv.club/20ago21/smartv.php?c=history
@@ -97,10 +97,10 @@ http://tecnotv.club/20ago21/smartv.php?c=history
 http://tecnotv.club/20ago21/smartv.php?c=h2
 
 #EXTINF:-1 ,DISCOVERY iD
-http://tecnotv.club/20ago21/smartv2.php?c=a073
+http://tecnotv.club/20ago21/smartv3.php?c=621&file=playlist.m3u8
 
 #EXTINF:-1 ,DISCOVERY CHANNEL
-http://tecnotv.club/20ago21/smartv2.php?c=a0aq
+http://tecnotv.club/20ago21/smartv3.php?c=2560&file=playlist.m3u8
 
 #EXTINF:-1 ,ANIMAL PLANET
 http://tecnotv.club/20ago21/smartv2.php?c=a0ap
@@ -145,13 +145,13 @@ http://tecnotv.club/20ago21/smartv.php?c=telemundo
 http://tecnotv.club/20ago21/smartv.php?c=galavision
 
 #EXTINF:-1 ,AXN
-http://tecnotv.club/20ago21/smartv.php?c=axn
+http://tecnotv.club/20ago21/smartv3.php?c=637&file=playlist.m3u8
 
 #EXTINF:-1 ,UNICABLE
 http://tecnotv.club/20ago21/smartv.php?c=unicable
 
 #EXTINF:-1 ,Comedy Central
-http://tecnotv.club/20ago21/smartv2.php?c=a0b1
+http://tecnotv.club/20ago21/smartv3.php?c=457&file=playlist.m3u8
 
 #EXTINF:-1 ,RAKUTEN TV
 https://rakuten-actionmovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
