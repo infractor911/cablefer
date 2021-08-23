@@ -34,7 +34,7 @@ http://tecnotv.club/20ago21/geomex.php?c=71&p=3&k=tecnoplay&f=.m3u8
 http://tecnotv.club/20ago21/geomex.php?c=207&p=3&k=tecnotv&f=.m3u8
 
 #EXTINF:-1 ,FXM
-http://tecnotv.club/20ago21/geomex.php?c=138&p=3&k=tecnotv&f=.m3u8
+http://tecnotv.club/20ago21/smartv.php?c=fxm
 
 #EXTINF:-1 ,FOX MOVIES 
 http://tecnotv.club/20ago21/geomex.php?c=146&p=3&k=tecnotv&f=.m3u8
@@ -73,7 +73,7 @@ http://tecnotv.club/20ago21/geomex.php?c=62&p=3&k=tecnotv&f=.m3u8
 http://tecnotv.club/20ago21/geomex.php?c=66&p=3&k=tecnotv&f=.m3u8
 
 #EXTINF:-1 ,FX 
-http://tecnotv.club/20ago21/geomex.php?c=209&p=3&k=tecnotv&f=.m3u8
+http://tecnotv.club/20ago21/smartv.php?c=fx
 
 #EXTINF:-1 ,GOLDEN+
 http://tecnotv.club/20ago21/geomex.php?c=122&p=3&k=tecnotv&f=.m3u8
