@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 ,CANAL CINCO 
-http://tecnotv.club/20ago21/smartv.php?c=elcincohd
+http://tecnotv.club/20ago21/sport.php?c=elcinco
 
 #EXTINF:-1 ,AZTECA 7
 http://tecnotv.club/20ago21/smartv.php?c=azteca7hd
@@ -19,7 +19,7 @@ http://tecnotv.club/20ago21/smartv.php?c=univtln
 https://spinoff.link/20ago21/ssiptv2.php?c=34
 
 #EXTINF:-1 ,CANAL 11
-http://tecnotv.club/20ago21/smartv.php?c=oncetvhd
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/chunklist_w776573390_b1300000_slesp.m3u8
 
 #EXTINF:-1 ,MÓRBIDO
 http://tecnotv.club/20ago21/smartv.php?c=morbido
