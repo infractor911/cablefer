@@ -1,13 +1,13 @@
 #EXTM3U
 
 #EXTINF:-1 ,CANAL CINCO 
-http://tecnotv.club/20ago21/smartv3.php?c=3460&file=playlist.m3u8
+http://tecnotv.club/20ago21/smartv3.php?c=601&file=playlist.m3u8
 
 #EXTINF:-1 ,AZTECA 7
-http://tecnotv.club/20ago21/smartv3.php?c=3459&file=playlist.m3u8
+http://tecnotv.club/20ago21/smartv3.php?c=600&file=playlist.m3u8
 
 #EXTINF:-1 ,DISTRITO COMEDIA
-http://tecnotv.club/20ago21/smartv.php?c=distrito
+http://tecnotv.club/20ago21/smartv3.php?c=9250&file=playlist.m3u8
 
 #EXTINF:-1 ,TLNOVELAS
 http://tecnotv.club/20ago21/smartv.php?c=tlnovelas
@@ -16,43 +16,25 @@ http://tecnotv.club/20ago21/smartv.php?c=tlnovelas
 http://tecnotv.club/20ago21/smartv.php?c=univtln
 
 #EXTINF:-1 ,DE PELÍCULA
-http://tecnotv.club/20ago21/smartv2.php?c=a0cp
-
-#EXTINF:-1  ,MULTIPREMIER
-http://tecnotv.club/20ago21/smartv.php?c=
-
-#EXTINF:-1 , MULTICINEMA 
-http://tecnotv.club/20ago21/smartv.php?c=mc
+http://tecnotv.club/20ago21/smartv3.php?c=317&file=playlist.m3u8
 
 #EXTINF:-1 ,CANAL 11
-http://tecnotv.club/20ago21/smartv.php?c=oncetvhd
+http://tecnotv.club/20ago21/smartv3.php?c=226&file=playlist.m3u8
 
 #EXTINF:-1 ,MÓRBIDO
 http://tecnotv.club/20ago21/smartv.php?c=morbido
 
 #EXTINF:-1 ,SPACE 
-http://tecnotv.club/20ago21/smartv2.php?c=a0cj
+http://tecnotv.club/20ago21/smartv3.php?c=706&file=playlist.m3u8
 
 #EXTINF:-1 ,TNT
-http://tecnotv.club/20ago21/smartv.php?c=tnt
+http://tecnotv.club/20ago21/smartv3.php?c=306&file=playlist.m3u8
 
 #EXTINF:-1 ,TNT SERIES
-http://tecnotv.club/20ago21/smartv.php?c=tntseries
+http://tecnotv.club/20ago21/smartv3.php?c=307&file=playlist.m3u8
 
 #EXTINF:-1 ,ESTUDIO UNIVERSAL 
-http://tecnotv.club/20ago21/smartv.php?c=universal
-
-#EXTINF:-1 ,star action
-http://tecnotv.club/20ago21/smartv2.php?c=a064
-
-#EXTINF:-1 ,star channel 
-http://tecnotv.club/20ago21/smartv2.php?c=a061
-
-#EXTINF:-1 ,star cinema
-http://tecnotv.club/20ago21/smartv2.php?c=a065
-
-#EXTINF:-1 ,star classics
-http://tecnotv.club/20ago21/smartv2.php?c=a0a3
+http://tecnotv.club/20ago21/smartv3.php?c=726&file=playlist.m3u8
 
 #EXTINF:-1 ,FXM
 http://tecnotv.club/20ago21/smartv3.php?c=769&file=playlist.m3u8
@@ -61,16 +43,16 @@ http://tecnotv.club/20ago21/smartv3.php?c=769&file=playlist.m3u8
 http://tecnotv.club/20ago21/smartv2.php?c=a0ck
 
 #EXTINF:-1 ,CINECANAL
-http://tecnotv.club/20ago21/smartv.php?c=cinecanal
+http://tecnotv.club/20ago21/smartv3.php?c=309&file=playlist.m3u8
 
 #EXTINF:-1 ,CINEMAX
-http://tecnotv.club/20ago21/smartv.php?c=cinemax
+http://tecnotv.club/20ago21/smartv3.php?c=617&file=playlist.m3u8
 
 #EXTINF:-1 ,AMC
 http://tecnotv.club/20ago21/smartv3.php?c=629&file=playlist.m3u8
 
 #EXTINF:-1 ,PARAMOUNT CHANNEL
-http://tecnotv.club/20ago21/smartv2.php?c=a08y
+http://tecnotv.club/20ago21/smartv3.php?c=630&file=playlist.m3u8
 
 #EXTINF:-1 ,FOX
 http://tecnotv.club/20ago21/smartv3.php?c=671&file=playlist.m3u8
@@ -79,13 +61,13 @@ http://tecnotv.club/20ago21/smartv3.php?c=671&file=playlist.m3u8
 http://tecnotv.club/20ago21/smartv.php?c=starlife
 
 #EXTINF:-1 ,SONY
-http://tecnotv.club/20ago21/smartv.php?c=sony
+http://tecnotv.club/20ago21/smartv3.php?c=671&file=playlist.m3u8
 
 #EXTINF:-1 ,WARNER
-http://tecnotv.club/20ago21/smartv.php?c=warner
+http://tecnotv.club/20ago21/smartv3.php?c=798&file=playlist.m3u8
 
 #EXTINF:-1 ,A&E
-http://tecnotv.club/20ago21/smartv.php?c=ae
+http://tecnotv.club/20ago21/smartv3.php?c=728&file=playlist.m3u8
 
 #EXTINF:-1 ,FX 
 http://tecnotv.club/20ago21/smartv3.php?c=768&file=playlist.m3u8
@@ -100,10 +82,10 @@ http://tecnotv.club/20ago21/smartv.php?c=h2
 http://tecnotv.club/20ago21/smartv3.php?c=621&file=playlist.m3u8
 
 #EXTINF:-1 ,DISCOVERY CHANNEL
-http://tecnotv.club/20ago21/smartv3.php?c=2560&file=playlist.m3u8
+http://tecnotv.club/20ago21/smartv3.php?c=464&file=playlist.m3u8
 
 #EXTINF:-1 ,ANIMAL PLANET
-http://tecnotv.club/20ago21/smartv2.php?c=a0ap
+http://tecnotv.club/20ago21/smartv3.php?c=729&file=playlist.m3u8
 
 #EXTINF:-1 ,NAT GEO
 http://tecnotv.club/20ago21/smartv.php?c=natgeo
@@ -133,22 +115,22 @@ http://tecnotv.club/20ago21/smartv.php?c=dturbo
 http://tecnotv.club/20ago21/smartv.php?c=food
 
 #EXTINF:-1 ,TCM
-http://tecnotv.club/20ago21/smartv.php?c=tcm
+http://tecnotv.club/20ago21/smartv3.php?c=652&file=playlist.m3u8
 
 #EXTINF:-1 ,TRUTV
-http://tecnotv.club/20ago21/smartv.php?c=trutv
+http://tecnotv.club/20ago21/smartv3.php?c=796&file=playlist.m3u8
 
 #EXTINF:-1 ,TELEMUNDO
 http://tecnotv.club/20ago21/smartv.php?c=telemundo
 
 #EXTINF:-1 ,GALAVISON 
-http://tecnotv.club/20ago21/smartv.php?c=galavision
+http://tecnotv.club/20ago21/smartv3.php?c=17&file=playlist.m3u8
 
 #EXTINF:-1 ,AXN
 http://tecnotv.club/20ago21/smartv3.php?c=637&file=playlist.m3u8
 
 #EXTINF:-1 ,UNICABLE
-http://tecnotv.club/20ago21/smartv.php?c=unicable
+http://tecnotv.club/20ago21/smartv3.php?c=598&file=playlist.m3u8
 
 #EXTINF:-1 ,Comedy Central
 http://tecnotv.club/20ago21/smartv3.php?c=457&file=playlist.m3u8
@@ -158,9 +140,3 @@ https://rakuten-actionmovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 ,LOS SIMPSON
 https://videostreaming.cloudserverlatam.com/cloudservertv/cloudservertv/playlist.m3u8
-
-#EXTINF:-1 ,CORAJE EL PERRO COBARDE
-http://tecnotv.club/20ago21/24.php?c=338
-
-#EXTINF:-1 ,MALCOM
-http://tecnotv.club/20ago21/24.php?c=358
