@@ -1,13 +1,13 @@
 #EXTM3U
 
 #EXTINF:-1 ,CANAL CINCO 
-http://tecnotv.club/20ago21/smartv3.php?c=601&file=playlist.m3u8
+http://tecnotv.club/20ago21/smartv.php?c=elcincohd
 
 #EXTINF:-1 ,AZTECA 7
-http://tecnotv.club/20ago21/smartv3.php?c=600&file=playlist.m3u8
+http://tecnotv.club/20ago21/smartv.php?c=azteca7hd
 
 #EXTINF:-1 ,DISTRITO COMEDIA
-http://tecnotv.club/20ago21/smartv3.php?c=9250&file=playlist.m3u8
+http://tecnotv.club/20ago21/smartv.php?c=distrito
 
 #EXTINF:-1 ,TLNOVELAS
 http://tecnotv.club/20ago21/smartv.php?c=tlnovelas
@@ -19,7 +19,7 @@ http://tecnotv.club/20ago21/smartv.php?c=univtln
 https://spinoff.link/20ago21/ssiptv2.php?c=34
 
 #EXTINF:-1 ,CANAL 11
-http://tecnotv.club/20ago21/smartv3.php?c=226&file=playlist.m3u8
+http://tecnotv.club/20ago21/smartv.php?c=oncetvhd
 
 #EXTINF:-1 ,MÓRBIDO
 http://tecnotv.club/20ago21/smartv.php?c=morbido
