@@ -16,7 +16,7 @@ http://tecnotv.club/20ago21/smartv.php?c=tlnovelas
 http://tecnotv.club/20ago21/smartv.php?c=univtln
 
 #EXTINF:-1 ,DE PELÍCULA
-http://tecnotv.club/20ago21/smartv3.php?c=317&file=playlist.m3u8
+https://spinoff.link/20ago21/ssiptv2.php?c=34
 
 #EXTINF:-1 ,CANAL 11
 http://tecnotv.club/20ago21/smartv3.php?c=226&file=playlist.m3u8
@@ -25,67 +25,67 @@ http://tecnotv.club/20ago21/smartv3.php?c=226&file=playlist.m3u8
 http://tecnotv.club/20ago21/smartv.php?c=morbido
 
 #EXTINF:-1 ,SPACE 
-http://tecnotv.club/20ago21/smartv3.php?c=706&file=playlist.m3u8
+https://spinoff.link/20ago21/ssiptv2.php?c=116
 
 #EXTINF:-1 ,TNT
-http://tecnotv.club/20ago21/smartv3.php?c=306&file=playlist.m3u8
+https://spinoff.link/20ago21/ssiptv2.php?c=110
 
 #EXTINF:-1 ,TNT SERIES
-http://tecnotv.club/20ago21/smartv3.php?c=307&file=playlist.m3u8
+https://spinoff.link/20ago21/ssiptv2.php?c=109
 
 #EXTINF:-1 ,ESTUDIO UNIVERSAL 
-http://tecnotv.club/20ago21/smartv3.php?c=726&file=playlist.m3u8
+https://spinoff.link/20ago21/ssiptv2.php?c=103
 
 #EXTINF:-1 ,FXM
-http://tecnotv.club/20ago21/smartv3.php?c=769&file=playlist.m3u8
+https://spinoff.link/20ago21/ssiptv2.php?c=69
 
 #EXTINF:-1 ,FOX MOVIES
 http://tecnotv.club/20ago21/smartv2.php?c=a0ck
 
 #EXTINF:-1 ,CINECANAL
-http://tecnotv.club/20ago21/smartv3.php?c=309&file=playlist.m3u8
+https://spinoff.link/20ago21/ssiptv2.php?c=19
 
-#EXTINF:-1 ,CINEMAX
-http://tecnotv.club/20ago21/smartv3.php?c=617&file=playlist.m3u8
+#EXTINF:-1 ,CINEMA plus
+https://spinoff.link/20ago21/ssiptv2.php?c=22
 
 #EXTINF:-1 ,AMC
-http://tecnotv.club/20ago21/smartv3.php?c=629&file=playlist.m3u8
+https://spinoff.link/20ago21/ssiptv2.php?c=6
 
 #EXTINF:-1 ,PARAMOUNT CHANNEL
-http://tecnotv.club/20ago21/smartv3.php?c=630&file=playlist.m3u8
+https://spinoff.link/20ago21/ssiptv2.php?c=120
 
 #EXTINF:-1 ,FOX
-http://tecnotv.club/20ago21/smartv3.php?c=671&file=playlist.m3u8
+https://spinoff.link/20ago21/ssiptv2.php?c=91
 
-#EXTINF:-1 ,FOX LIFE
-http://tecnotv.club/20ago21/smartv.php?c=starlife
+#EXTINF:-1 ,FOX premium
+https://spinoff.link/20ago21/ssiptv2.php?c=81
 
 #EXTINF:-1 ,SONY
-http://tecnotv.club/20ago21/smartv3.php?c=671&file=playlist.m3u8
+https://spinoff.link/20ago21/ssiptv2.php?c=117
 
 #EXTINF:-1 ,WARNER
-http://tecnotv.club/20ago21/smartv3.php?c=798&file=playlist.m3u8
+https://spinoff.link/20ago21/ssiptv2.php?c=99
 
 #EXTINF:-1 ,A&E
-http://tecnotv.club/20ago21/smartv3.php?c=728&file=playlist.m3u8
+https://spinoff.link/20ago21/ssiptv2.php?c=1
 
 #EXTINF:-1 ,FX 
-http://tecnotv.club/20ago21/smartv3.php?c=768&file=playlist.m3u8
+https://spinoff.link/20ago21/ssiptv2.php?c=92
 
 #EXTINF:-1 ,HISTORY CHANNEL 
-http://tecnotv.club/20ago21/smartv3.php?c=454&file=playlist.m3u8
+https://spinoff.link/20ago21/ssiptv2.php?c=56
 
 #EXTINF:-1 ,HISTORY 2
 http://tecnotv.club/20ago21/smartv.php?c=h2
 
 #EXTINF:-1 ,DISCOVERY iD
-http://tecnotv.club/20ago21/smartv3.php?c=621&file=playlist.m3u8
+https://spinoff.link/20ago21/ssiptv2.php?c=52
 
 #EXTINF:-1 ,DISCOVERY CHANNEL
-http://tecnotv.club/20ago21/smartv3.php?c=464&file=playlist.m3u8
+https://spinoff.link/20ago21/ssiptv2.php?c=36
 
 #EXTINF:-1 ,ANIMAL PLANET
-http://tecnotv.club/20ago21/smartv3.php?c=729&file=playlist.m3u8
+https://spinoff.link/20ago21/ssiptv2.php?c=3
 
 #EXTINF:-1 ,NAT GEO
 http://tecnotv.club/20ago21/smartv.php?c=natgeo
@@ -115,10 +115,10 @@ http://tecnotv.club/20ago21/smartv.php?c=dturbo
 http://tecnotv.club/20ago21/smartv.php?c=food
 
 #EXTINF:-1 ,TCM
-http://tecnotv.club/20ago21/smartv3.php?c=652&file=playlist.m3u8
+https://spinoff.link/20ago21/ssiptv2.php?c=112
 
 #EXTINF:-1 ,TRUTV
-http://tecnotv.club/20ago21/smartv3.php?c=796&file=playlist.m3u8
+https://spinoff.link/20ago21/ssiptv2.php?c=105
 
 #EXTINF:-1 ,TELEMUNDO
 http://tecnotv.club/20ago21/smartv.php?c=telemundo
@@ -127,13 +127,13 @@ http://tecnotv.club/20ago21/smartv.php?c=telemundo
 http://tecnotv.club/20ago21/smartv3.php?c=17&file=playlist.m3u8
 
 #EXTINF:-1 ,AXN
-http://tecnotv.club/20ago21/smartv3.php?c=637&file=playlist.m3u8
+https://spinoff.link/20ago21/ssiptv2.php?c=2
 
 #EXTINF:-1 ,UNICABLE
-http://tecnotv.club/20ago21/smartv3.php?c=598&file=playlist.m3u8
+https://spinoff.link/20ago21/ssiptv2.php?c=104
 
 #EXTINF:-1 ,Comedy Central
-http://tecnotv.club/20ago21/smartv3.php?c=457&file=playlist.m3u8
+https://spinoff.link/20ago21/ssiptv2.php?c=29
 
 #EXTINF:-1 ,RAKUTEN TV
 https://rakuten-actionmovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
