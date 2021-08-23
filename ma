@@ -25,7 +25,7 @@ http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/chunklist_w7
 http://tecnotv.club/20ago21/smartv.php?c=morbido
 
 #EXTINF:-1 ,SPACE 
-https://spinoff.link/20ago21/ssiptv2.php?c=116
+https://spinoff.link/20ago21/ss.php?c=133
 
 #EXTINF:-1 ,TNT
 https://spinoff.link/20ago21/ssiptv2.php?c=110
