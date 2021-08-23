@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 ,CANAL CINCO 
-http://tecnotv.club/20ago21/smartv.php?c=elcincohd
+http://tecnotv.club/20ago21/smartv3.php?c=3460&file=playlist.m3u8
 
 #EXTINF:-1 ,AZTECA 7
 http://tecnotv.club/20ago21/smartv.php?c=azteca7hd
@@ -16,7 +16,7 @@ http://tecnotv.club/20ago21/smartv.php?c=tlnovelas
 http://tecnotv.club/20ago21/smartv.php?c=univtln
 
 #EXTINF:-1 ,DE PELÍCULA
-http://tecnotv.club/20ago21/smartv.php?c=d
+http://tecnotv.club/20ago21/smartv2.php?c=a0cp
 
 #EXTINF:-1  ,MULTIPREMIER
 http://tecnotv.club/20ago21/smartv.php?c=
@@ -31,7 +31,7 @@ http://tecnotv.club/20ago21/smartv.php?c=oncetvhd
 http://tecnotv.club/20ago21/smartv.php?c=morbido
 
 #EXTINF:-1 ,SPACE 
-http://tecnotv.club/20ago21/smartv.php?c=
+http://tecnotv.club/20ago21/smartv2.php?c=a0cj
 
 #EXTINF:-1 ,TNT
 http://tecnotv.club/20ago21/smartv.php?c=tnt
@@ -42,8 +42,23 @@ http://tecnotv.club/20ago21/smartv.php?c=tntseries
 #EXTINF:-1 ,ESTUDIO UNIVERSAL 
 http://tecnotv.club/20ago21/smartv.php?c=universal
 
+#EXTINF:-1 ,star action
+http://tecnotv.club/20ago21/smartv2.php?c=a064
+
+#EXTINF:-1 ,star channel 
+http://tecnotv.club/20ago21/smartv2.php?c=a061
+
+#EXTINF:-1 ,star cinema
+http://tecnotv.club/20ago21/smartv2.php?c=a065
+
+#EXTINF:-1 ,star classics
+http://tecnotv.club/20ago21/smartv2.php?c=a0a3
+
 #EXTINF:-1 ,FXM
-http://tecnotv.club/20ago21/smartv.php?c=fxm
+http://tecnotv.club/20ago21/smartv2.php?c=a074
+
+#EXTINF:-1 ,FOX MOVIES
+http://tecnotv.club/20ago21/smartv2.php?c=a0ck
 
 #EXTINF:-1 ,CINECANAL
 http://tecnotv.club/20ago21/smartv.php?c=cinecanal
@@ -52,10 +67,10 @@ http://tecnotv.club/20ago21/smartv.php?c=cinecanal
 http://tecnotv.club/20ago21/smartv.php?c=cinemax
 
 #EXTINF:-1 ,AMC
-http://tecnotv.club/20ago21/smartv.php?c=amc
+http://tecnotv.club/20ago21/smartv2.php?c=a0b5
 
 #EXTINF:-1 ,PARAMOUNT CHANNEL
-http://tecnotv.club/20ago21/smartv.php?c=paramount
+http://tecnotv.club/20ago21/smartv2.php?c=a08y
 
 #EXTINF:-1 ,FOX
 http://tecnotv.club/20ago21/smartv.php?c=starch
@@ -73,7 +88,7 @@ http://tecnotv.club/20ago21/smartv.php?c=warner
 http://tecnotv.club/20ago21/smartv.php?c=ae
 
 #EXTINF:-1 ,FX 
-http://tecnotv.club/20ago21/smartv.php?c=fx
+http://tecnotv.club/20ago21/smartv2.php?c=a074
 
 #EXTINF:-1 ,HISTORY CHANNEL 
 http://tecnotv.club/20ago21/smartv.php?c=history
@@ -82,19 +97,19 @@ http://tecnotv.club/20ago21/smartv.php?c=history
 http://tecnotv.club/20ago21/smartv.php?c=h2
 
 #EXTINF:-1 ,DISCOVERY iD
-http://tecnotv.club/20ago21/smartv.php?c=id
+http://tecnotv.club/20ago21/smartv2.php?c=a073
 
 #EXTINF:-1 ,DISCOVERY CHANNEL
-http://tecnotv.club/20ago21/smartv.php?c=discoverych
+http://tecnotv.club/20ago21/smartv2.php?c=a0aq
 
 #EXTINF:-1 ,ANIMAL PLANET
-http://tecnotv.club/20ago21/smartv.php?c=anima
+http://tecnotv.club/20ago21/smartv2.php?c=a0ap
 
 #EXTINF:-1 ,NAT GEO
 http://tecnotv.club/20ago21/smartv.php?c=natgeo
 
 #EXTINF:-1 ,NAT GEO WILD
-http://tecnotv.club/20ago21/smartv.php?c=natgeowild
+http://tecnotv.club/20ago21/smartv2.php?c=a09o
 
 #EXTINF:-1 ,DISCOVERY THEATER
 http://tecnotv.club/20ago21/smartv.php?c=dtheater
@@ -136,7 +151,7 @@ http://tecnotv.club/20ago21/smartv.php?c=axn
 http://tecnotv.club/20ago21/smartv.php?c=unicable
 
 #EXTINF:-1 ,Comedy Central
-http://tecnotv.club/20ago21/smartv.php?c=comedy
+http://tecnotv.club/20ago21/smartv2.php?c=a0b1
 
 #EXTINF:-1 ,RAKUTEN TV
 https://rakuten-actionmovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
