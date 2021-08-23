@@ -154,5 +154,5 @@ http://tecnotv.club/20ago21/geomex.php?c=94&p=3&k=tecnotv&f=.m3u8
 https://rakuten-actionmovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 ,HBO
-http://tecnotv.club/20ago21/principal.php?c=hboes&f=.m3u8
+https://spinoff.link/20ago21/ss.php?c=90
 
