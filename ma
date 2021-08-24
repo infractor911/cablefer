@@ -1,143 +1,164 @@
 #EXTM3U
 
-#EXTINF:-1 ,CANAL CINCO 
-http://tecnotv.club/20ago21/sport.php?c=elcinco
-
 #EXTINF:-1 ,AZTECA 7
-http://tecnotv.club/20ago21/smartv.php?c=azteca7hd
+http://tecnotv.club/20ago21/smartv3.php?c=3459&file=playlist.m3u8
 
-#EXTINF:-1 ,DISTRITO COMEDIA
-http://tecnotv.club/20ago21/smartv.php?c=distrito
+#EXTINF:-1 ,CANAL 5
+http://tecnotv.club/20ago21/smartv3.php?c=3460&file=playlist.m3u8
 
-#EXTINF:-1 ,TLNOVELAS
-http://tecnotv.club/20ago21/smartv.php?c=tlnovelas
+#EXTINF:-1 ,MILENIO NOTICIAS
+http://tecnotv.club/20ago21/geomex.php?c=1250&p=3&k=tecnoplay&f=.m3u8
 
-#EXTINF:-1 ,TELE NOVELAS 
-http://tecnotv.club/20ago21/smartv.php?c=univtln
+#EXTINF:-1 ,FORO TV
+http://tecnotv.club/20ago21/geomex.php?c=4&p=3&k=tecnoplay&f=.m3u8
 
-#EXTINF:-1 ,DE PELÍCULA
-https://spinoff.link/20ago21/ssiptv2.php?c=34
+#EXTINF:-1 ,ADN40
+http://tecnotv.club/20ago21/geomex.php?c=184&p=3&k=tecnoplay&f=.m3u8
+
+#EXTINF:-1 ,EXCELSIOR TV
+http://tecnotv.club/20ago21/geomex.php?c=1449&p=3&k=tecnoplay&f=.m3u8
+
+#EXTINF:-1 ,RT ESPAÑOL 
+http://tecnotv.club/20ago21/geomex.php?c=2091&p=3&k=tecnoplay&f=.m3u8
+
+#EXTINF:-1 , TVC
+http://tecnotv.club/20ago21/geomex.php?c=2156&p=3&k=tecnoplay&f=.m3u8
 
 #EXTINF:-1 ,CANAL 11
-http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/chunklist_w776573390_b1300000_slesp.m3u8
-
-#EXTINF:-1 ,MÓRBIDO
-http://tecnotv.club/20ago21/smartv.php?c=morbido
+http://tecnotv.club/20ago21/geomex.php?c=1942&p=3&k=tecnoplay&f=.m3u8
 
 #EXTINF:-1 ,SPACE 
-http://tecnotv.club/20ago21/sport.php?c=space
+http://tecnotv.club/20ago21/geomex.php?c=129&p=3&k=tecnoplay&f=.m3u8
 
 #EXTINF:-1 ,TNT
-http://tecnotv.club/20ago21/smartv2.php?c=a0de
+http://tecnotv.club/20ago21/geomex.php?c=126&p=3&k=tecnoplay&f=.m3u8
 
 #EXTINF:-1 ,TNT SERIES
-http://tecnotv.club/20ago21/smartv2.php?c=a0df
+http://tecnotv.club/20ago21/geomex.php?c=71&p=3&k=tecnoplay&f=.m3u8
 
 #EXTINF:-1 ,ESTUDIO UNIVERSAL 
-http://tecnotv.club/20ago21/smartv2.php?c=a0ci
+http://tecnotv.club/20ago21/geomex.php?c=207&p=3&k=tecnotv&f=.m3u8
 
 #EXTINF:-1 ,FXM
-https://spinoff.link/20ago21/ssiptv2.php?c=69
+http://tecnotv.club/20ago21/geomex.php?c=138&p=3&k=tecnotv&f=.m3u8
 
-#EXTINF:-1 ,FOX MOVIES
-http://tecnotv.club/20ago21/smartv2.php?c=a0ck
+#EXTINF:-1 ,FOX MOVIES 
+http://tecnotv.club/20ago21/geomex.php?c=146&p=3&k=tecnotv&f=.m3u8
 
 #EXTINF:-1 ,CINECANAL
-https://spinoff.link/20ago21/ssiptv2.php?c=19
+http://tecnotv.club/20ago21/geomex.php?c=149&p=3&k=tecnotv&f=.m3u8
 
-#EXTINF:-1 ,CINEMA plus
-https://spinoff.link/20ago21/ssiptv2.php?c=22
+#EXTINF:-1 ,CINEMAX
+http://tecnotv.club/20ago21/geomex.php?c=158&p=3&k=tecnotv&f=.m3u8
 
 #EXTINF:-1 ,AMC
-https://spinoff.link/20ago21/ssiptv2.php?c=6
+http://tecnotv.club/20ago21/geomex.php?c=131&p=3&k=tecnotv&f=.m3u8
+
+#EXTINF:-1 ,FOX ACTION
+http://tecnotv.club/20ago21/geomex.php?c=336&p=3&k=tecnotv&f=.m3u8
 
 #EXTINF:-1 ,PARAMOUNT CHANNEL
-https://spinoff.link/20ago21/ssiptv2.php?c=120
+http://tecnotv.club/20ago21/geomex.php?c=1726&p=3&k=tecnotv&f=.m3u8
 
 #EXTINF:-1 ,FOX
-https://spinoff.link/20ago21/ssiptv2.php?c=91
+http://tecnotv.club/20ago21/geomex.php?c=201&p=3&k=tecnotv&f=.m3u8
 
-#EXTINF:-1 ,FOX premium
-https://spinoff.link/20ago21/ssiptv2.php?c=81
+#EXTINF:-1 ,Fox2
+http://tecnotv.club/20ago21/geomex.php?c=46&p=3&k=tecnoplay&f=.m3u8
 
 #EXTINF:-1 ,SONY
-https://spinoff.link/20ago21/ssiptv2.php?c=117
+http://tecnotv.club/20ago21/geomex.php?c=48&p=3&k=tecnotv&f=.m3u8
 
 #EXTINF:-1 ,WARNER
-https://spinoff.link/20ago21/ssiptv2.php?c=99
+http://tecnotv.club/20ago21/geomex.php?c=205&p=3&k=tecnotv&f=.m3u8
 
 #EXTINF:-1 ,A&E
-https://spinoff.link/20ago21/ssiptv2.php?c=1
+http://tecnotv.club/20ago21/geomex.php?c=62&p=3&k=tecnotv&f=.m3u8
+
+#EXTINF:-1 ,UNIVERSAL
+http://tecnotv.club/20ago21/geomex.php?c=66&p=3&k=tecnotv&f=.m3u8
 
 #EXTINF:-1 ,FX 
-https://spinoff.link/20ago21/ssiptv2.php?c=92
+http://tecnotv.club/20ago21/geomex.php?c=209&p=3&k=tecnotv&f=.m3u8
+
+#EXTINF:-1 ,GOLDEN+
+http://tecnotv.club/20ago21/geomex.php?c=122&p=3&k=tecnotv&f=.m3u8
+
+#EXTINF:-1 ,GOLDEN 
+http://tecnotv.club/20ago21/geomex.php?c=123&p=3&k=tecnotv&f=.m3u8
+
+#EXTINF:-1 ,GOLDEN EDGE
+http://tecnotv.club/20ago21/geomex.php?c=124&p=3&k=tecnotv&f=.m3u8
 
 #EXTINF:-1 ,HISTORY CHANNEL 
-https://spinoff.link/20ago21/ssiptv2.php?c=56
-
-#EXTINF:-1 ,HISTORY 2
-http://tecnotv.club/20ago21/smartv.php?c=h2
+http://tecnotv.club/20ago21/geomex.php?c=89&p=3&k=tecnotv&f=.m3u8
 
 #EXTINF:-1 ,DISCOVERY iD
-https://spinoff.link/20ago21/ssiptv2.php?c=52
+http://tecnotv.club/20ago21/geomex.php?c=68&p=3&k=tecnotv&f=.m3u8
 
 #EXTINF:-1 ,DISCOVERY CHANNEL
-https://spinoff.link/20ago21/ssiptv2.php?c=36
+http://tecnotv.club/20ago21/geomex.php?c=86&p=3&k=tecnotv&f=.m3u8
 
 #EXTINF:-1 ,ANIMAL PLANET
-https://spinoff.link/20ago21/ssiptv2.php?c=3
+http://tecnotv.club/20ago21/geomex.php?c=88&p=3&k=tecnotv&f=.m3u8
 
 #EXTINF:-1 ,NAT GEO
-http://tecnotv.club/20ago21/smartv.php?c=natgeo
+http://tecnotv.club/20ago21/geomex.php?c=91&p=3&k=tecnotv&f=.m3u8
 
 #EXTINF:-1 ,NAT GEO WILD
-http://tecnotv.club/20ago21/smartv2.php?c=a09o
+http://tecnotv.club/20ago21/geomex.php?c=92&p=3&k=tecnotv&f=.m3u8
 
 #EXTINF:-1 ,DISCOVERY THEATER
-http://tecnotv.club/20ago21/smartv.php?c=dtheater
+http://tecnotv.club/20ago21/geomex.php?c=95&p=3&k=tecnotv&f=.m3u8
 
 #EXTINF:-1 ,DISCOVERY CIVILIZACION
-http://tecnotv.club/20ago21/smartv.php?c=dcivil
+http://tecnotv.club/20ago21/geomex.php?c=99&p=3&k=tecnotv&f=.m3u8
 
 #EXTINF:-1 ,DISCOVERY H&H
-http://tecnotv.club/20ago21/smartv.php?c=hh
+http://tecnotv.club/20ago21/geomex.php?c=96&p=3&k=tecnotv&f=.m3u8
 
 #EXTINF:-1 ,DISCOVERY SCIENCE
-http://tecnotv.club/20ago21/smartv.php?c=dciencia
+http://tecnotv.club/20ago21/geomex.php?c=98&p=3&k=tecnotv&f=.m3u8
 
 #EXTINF:-1 ,DISCOVERY WORLD
-http://tecnotv.club/20ago21/smartv.php?c=dworld
+http://tecnotv.club/20ago21/geomex.php?c=101&p=3&k=tecnotv&f=.m3u8
 
 #EXTINF:-1 ,DISCOVERY TURBO 
-http://tecnotv.club/20ago21/smartv.php?c=dturbo
+http://tecnotv.club/20ago21/geomex.php?c=2379&p=3&k=tecnotv&f=.m3u8
 
 #EXTINF:-1 ,FOOD NETWORK 
-http://tecnotv.club/20ago21/smartv.php?c=food
+http://tecnotv.club/20ago21/geomex.php?c=2145&p=3&k=tecnotv&f=.m3u8
 
 #EXTINF:-1 ,TCM
-https://spinoff.link/20ago21/ssiptv2.php?c=112
+http://tecnotv.club/20ago21/geomex.php?c=128&p=3&k=tecnotv&f=.m3u8
+
+#EXTINF:-1 ,TOONCAST
+http://tecnotv.club/20ago21/geomex.php?c=108&p=3&k=tecnotv&f=.m3u8
 
 #EXTINF:-1 ,TRUTV
-https://spinoff.link/20ago21/ssiptv2.php?c=105
+http://tecnotv.club/20ago21/geomex.php?c=215&p=3&k=tecnotv&f=.m3u8
 
-#EXTINF:-1 ,TELEMUNDO
-http://tecnotv.club/20ago21/smartv.php?c=telemundo
+#EXTINF:-1 ,DW Documental
+http://tecnotv.club/20ago21/geomex.php?c=203&p=3&k=tecnotv&f=.m3u8
 
-#EXTINF:-1 ,GALAVISON 
-http://tecnotv.club/20ago21/smartv3.php?c=17&file=playlist.m3u8
+#EXTINF:-1 ,BET ME 
+http://tecnotv.club/20ago21/geomex.php?c=2591&p=3&k=tecnotv&f=.m3u8
+
+#EXTINF:-1 ,GARAGE TV 
+http://tecnotv.club/20ago21/geomex.php?c=75&p=3&k=tecnotv&f=.m3u8
 
 #EXTINF:-1 ,AXN
-https://spinoff.link/20ago21/ssiptv2.php?c=2
+http://tecnotv.club/20ago21/geomex.php?c=64&p=3&k=tecnotv&f=.m3u8
 
 #EXTINF:-1 ,UNICABLE
-https://spinoff.link/20ago21/ssiptv2.php?c=104
+http://tecnotv.club/20ago21/geomex.php?c=1499&p=3&k=tecnotv&f=.m3u8
 
-#EXTINF:-1 ,Comedy Central
-https://spinoff.link/20ago21/ssiptv2.php?c=29
+#EXTINF:-1 ,LIFE TIME
+http://tecnotv.club/20ago21/geomex.php?c=94&p=3&k=tecnotv&f=.m3u8
 
 #EXTINF:-1 ,RAKUTEN TV
 https://rakuten-actionmovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 ,LOS SIMPSON
-https://videostreaming.cloudserverlatam.com/cloudservertv/cloudservertv/playlist.m3u8
- 
+#EXTINF:-1 ,HBO
+http://tecnotv.club/20ago21/principal.php?c=hboes&f=.m3u8
+
