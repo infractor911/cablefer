@@ -179,4 +179,3 @@ https://rakuten-actionmovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 ,CORAJE EL PERRO COBARDE
 http://tecnotv.club/20ago21/24.php?c=338
-
