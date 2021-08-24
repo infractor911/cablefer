@@ -25,16 +25,16 @@ http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/chunklist_w7
 http://tecnotv.club/20ago21/smartv.php?c=morbido
 
 #EXTINF:-1 ,SPACE 
-https://spinoff.link/20ago21/ss.php?c=133
+http://tecnotv.club/20ago21/sport.php?c=space
 
 #EXTINF:-1 ,TNT
-https://spinoff.link/20ago21/ssiptv2.php?c=110
+http://tecnotv.club/20ago21/smartv2.php?c=a0de
 
 #EXTINF:-1 ,TNT SERIES
-https://spinoff.link/20ago21/ssiptv2.php?c=109
+http://tecnotv.club/20ago21/smartv2.php?c=a0df
 
 #EXTINF:-1 ,ESTUDIO UNIVERSAL 
-https://spinoff.link/20ago21/ssiptv2.php?c=103
+http://tecnotv.club/20ago21/smartv2.php?c=a0ci
 
 #EXTINF:-1 ,FXM
 https://spinoff.link/20ago21/ssiptv2.php?c=69
