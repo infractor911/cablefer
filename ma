@@ -15,7 +15,7 @@ http://tecnotv.club/20ago21/geomex.php?c=121&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 ,MORBIDO
 http://tecnotv.club/20ago21/geomex.php?c=140&p=3&k=tecnotv&f=.m3u8
 
-#EXTINF:-1 ,VH1
+#EXTINF:-1 ,MTV
 http://tecnotv.club/20ago21/geomex.php?c=334&p=3&k=tecnotv&f=.m3u8
 
 #EXTINF:-1 ,MILENIO NOTICIAS
@@ -72,6 +72,9 @@ http://tecnotv.club/20ago21/geomex.php?c=158&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 ,AMC
 http://tecnotv.club/20ago21/geomex.php?c=131&p=3&k=tecnotv&f=.m3u8
 
+#EXTINF:-1 ,STAR CINEMA
+http://tecnotv.club/20ago21/geomex.php?c=1729&p=3&k=tecnotv&f=.m3u8
+
 #EXTINF:-1 ,FOX ACTION
 http://tecnotv.club/20ago21/geomex.php?c=336&p=3&k=tecnotv&f=.m3u8
 
@@ -111,6 +114,9 @@ http://tecnotv.club/20ago21/geomex.php?c=124&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 ,HISTORY CHANNEL 
 http://tecnotv.club/20ago21/geomex.php?c=89&p=3&k=tecnotv&f=.m3u8
 
+#EXTINF:-1 ,HISTORY 2
+http://tecnotv.club/20ago21/smartv.php?c=h2
+
 #EXTINF:-1 ,DISCOVERY iD
 http://tecnotv.club/20ago21/geomex.php?c=68&p=3&k=tecnotv&f=.m3u8
 
@@ -144,6 +150,9 @@ http://tecnotv.club/20ago21/geomex.php?c=101&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 ,DISCOVERY TURBO 
 http://tecnotv.club/20ago21/geomex.php?c=2379&p=3&k=tecnotv&f=.m3u8
 
+#EXTINF:-1 ,HOLA TV
+http://tecnotv.club/20ago21/geomex.php?c=219&p=3&k=tecnotv&f=.m3u8
+
 #EXTINF:-1 ,FOOD NETWORK 
 http://tecnotv.club/20ago21/geomex.php?c=2145&p=3&k=tecnotv&f=.m3u8
 
@@ -176,5 +185,8 @@ http://tecnotv.club/20ago21/geomex.php?c=94&p=3&k=tecnotv&f=.m3u8
 
 #EXTINF:-1 ,RAKUTEN TV
 https://rakuten-actionmovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 ,BANDAMAX
+http://tecnotv.club/20ago21/geomex.php?c=221&p=3&k=tecnotv&f=.m3u8
 
 
