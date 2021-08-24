@@ -1,10 +1,22 @@
 #EXTM3U
 
 #EXTINF:-1 ,AZTECA 7
-http://tecnotv.club/20ago21/smartv3.php?c=3459&file=playlist.m3u8
+http://tecnotv.club/20ago21/geomex.php?c=317&p=3&k=tecnotv&f=.m3u8
 
 #EXTINF:-1 ,CANAL 5
-http://tecnotv.club/20ago21/smartv3.php?c=3460&file=playlist.m3u8
+http://tecnotv.club/20ago21/geomex.php?c=1785&p=3&k=tecnotv&f=.m3u8
+
+#EXTINF:-1 ,TELEVISA
+http://tecnotv.club/20ago21/geomex.php?c=1784&p=3&k=tecnotv&f=.m3u8
+
+#EXTINF:-1 ,DE PELICULA
+http://tecnotv.club/20ago21/geomex.php?c=121&p=3&k=tecnotv&f=.m3u8
+
+#EXTINF:-1 ,MORBIDO
+http://tecnotv.club/20ago21/geomex.php?c=140&p=3&k=tecnotv&f=.m3u8
+
+#EXTINF:-1 ,VH1
+http://tecnotv.club/20ago21/geomex.php?c=334&p=3&k=tecnotv&f=.m3u8
 
 #EXTINF:-1 ,MILENIO NOTICIAS
 http://tecnotv.club/20ago21/geomex.php?c=1250&p=3&k=tecnoplay&f=.m3u8
@@ -26,6 +38,12 @@ http://tecnotv.club/20ago21/geomex.php?c=2156&p=3&k=tecnoplay&f=.m3u8
 
 #EXTINF:-1 ,CANAL 11
 http://tecnotv.club/20ago21/geomex.php?c=1942&p=3&k=tecnoplay&f=.m3u8
+
+#EXTINF:-1 ,IMAGEN TV
+http://tecnotv.club/20ago21/geomex.php?c=2606&p=3&k=tecnotv&f=.m3u8
+
+#EXTINF:-1 ,COMEDY CENTRAL
+http://tecnotv.club/20ago21/geomex.php?c=340&p=3&k=tecnotv&f=.m3u8
 
 #EXTINF:-1 ,SPACE 
 http://tecnotv.club/20ago21/geomex.php?c=129&p=3&k=tecnoplay&f=.m3u8
@@ -159,6 +177,6 @@ http://tecnotv.club/20ago21/geomex.php?c=94&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 ,RAKUTEN TV
 https://rakuten-actionmovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 ,HBO
-http://tecnotv.club/20ago21/principal.php?c=hboes&f=.m3u8
+#EXTINF:-1 ,CORAJE EL PERRO COBARDE
+http://tecnotv.club/20ago21/24.php?c=338
 
