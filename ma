@@ -189,4 +189,3 @@ https://rakuten-actionmovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 ,BANDAMAX
 http://tecnotv.club/s12/geomex.php?c=221&p=3&k=tecnotv&f=.m3u8
 
-
