@@ -190,3 +190,4 @@ https://rakuten-actionmovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
 http://tecnotv.club/17sep/geomex.php?c=221&p=3&k=tecnotv&f=.m3u8
 
 
+6
