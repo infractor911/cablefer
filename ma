@@ -209,3 +209,6 @@ http://tecnotv.club/2ene/plutotv.php?c=5dcde197f6591d0009839e04
 
 #EXTINF:-1 ,CINE ACCION
 http://tecnotv.club/2ene/plutotv.php?c=5DCB62E63D4D8F0009F36881
+
+#EXTINF:-1 ,hbo
+http://tecnotv.club/2ene/lista3.php?c=62
