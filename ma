@@ -124,7 +124,7 @@ http://tecnotv.club/2ene/geomex.php?c=68&p=3&k=tecnotv&f=.m3u8
 http://tecnotv.club/2ene/geomex.php?c=86&p=3&k=tecnotv&f=.m3u8
 
 #EXTINF:-1 ,ANIMAL PLANET
-http://tecnotv.club/2ene/geomex.php?c=88&p=3&k=tecnotv&f=.m3u8
+http://tecnotv.club/2ene/smartv2.php?c=46613
 
 #EXTINF:-1 ,NAT GEO
 http://tecnotv.club/2ene/geomex.php?c=91&p=3&k=tecnotv&f=.m3u8
