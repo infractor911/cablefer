@@ -212,3 +212,6 @@ http://tecnotv.club/2ene/plutotv.php?c=5DCB62E63D4D8F0009F36881
 
 #EXTINF:-1 ,hbo
 http://tecnotv.club/2ene/lista3.php?c=62
+
+#EXTINF:-1 ,hbo2
+http://tecnotv.club/2ene/lista3.php?c=300
