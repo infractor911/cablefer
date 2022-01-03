@@ -214,4 +214,4 @@ http://tecnotv.club/2ene/plutotv.php?c=5DCB62E63D4D8F0009F36881
 http://tecnotv.club/2ene/smartv2.php?c=85353
 
 #EXTINF:-1 ,hbo2
-http://tecnotv.club/2ene/lista3.php?c=300
+http://tecnotv.club/2ene/smartv2.php?c=85357
