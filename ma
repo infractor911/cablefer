@@ -226,4 +226,4 @@ http://tecnotv.club/2ene/smartv2.php?c=85352
 http://tecnotv.club/2ene/smartv2.php?c=17126
 
 #EXTINF:-1 ,hbo xtreme cine
-http://tecnotv.club/2ene/smartv2.php?c=57427 
+http://tecnotv.club/2ene/smartv2.php?c=57427
