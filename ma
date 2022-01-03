@@ -215,3 +215,15 @@ http://tecnotv.club/2ene/smartv2.php?c=85353
 
 #EXTINF:-1 ,hbo2
 http://tecnotv.club/2ene/smartv2.php?c=85357
+
+#EXTINF:-1 .hbo signature
+http://tecnotv.club/2ene/smartv2.php?c=85356
+
+#EXTINF:-1 ,hbo plus
+http://tecnotv.club/2ene/smartv2.php?c=85352
+
+#EXTINF:-1 ,hbo West
+http://tecnotv.club/2ene/smartv2.php?c=85351
+
+#EXTINF:-1 ,hbo xtreme cine
+http://tecnotv.club/2ene/smartv2.php?c=57426
