@@ -51,6 +51,21 @@ http://tecnotv.club/2ene/smartv2.php?c=14871
 #EXTINF:-1 ,STAR MOVIES HD
 http://tecnotv.club/2ene/smartv2.php?c=55068
 
+#EXTINF:-1 ,STAR COMEDY 
+http://tecnotv.club/2ene/lista4.php?c=20746
+
+#EXTINF:-1 ,STAR ACTION
+http://tecnotv.club/2ene/lista4.php?c=47
+
+#EXTINF:-1 ,STAR HITS
+http://tecnotv.club/2ene/lista4.php?c=33
+
+#EXTINF:-1 ,MAX PRIME 
+http://tecnotv.club/2ene/lista4.php?c=1463
+
+#EXTINF:-1 ,MAX UP
+http://tecnotv.club/2ene/lista4.php?c=139
+
 #EXTINF:-1 ,HBO HD
 http://tecnotv.club/2ene/smartv2.php?c=57398
 
@@ -66,6 +81,9 @@ http://tecnotv.club/2ene/smartv2.php?c=57413
 #EXTINF:-1 ,HBO POP HD
 http://tecnotv.club/2ene/smartv2.php?c=57424
 
+#EXTINF:-1 ,HBO MUNDI
+http://tecnotv.club/2ene/lista4.php?c=137
+
 #EXTINF:-1 ,HBO SIGNATURE HD
 http://tecnotv.club/2ene/smartv2.php?c=57418
 
@@ -75,7 +93,7 @@ http://tecnotv.club/2ene/smartv2.php?c=55127
 #EXTINF:-1 ,ANIMAL PLANET 
 http://tecnotv.club/2ene/smartv2.php?c=46613
 
-#EXTINF:-1 ,DISCOVERY CHANNEL 
+#EXTINF:-1 ,DISCOVERY CHANNEL
 http://tecnotv.club/2ene/smartv2.php?c=85366
 
 #EXTINF:-1 ,DISCOVERY H&H 
@@ -134,3 +152,6 @@ http://tecnotv.club/2ene/smartv2.php?c=46654
 
 #EXTINF:-1 ,IMAGEN TV
 http://tecnotv.club/2ene/smartv2.php?c=46677
+
+#EXTINF:-1 ,CANAL 5
+http://tecnotv.club/2ene/lista4.php?c=226525
