@@ -1,142 +1,157 @@
 #EXTM3U
 
 #EXTINF:-1 ,A&E HD
-http://tecnotv.club/2ene/smartv2.php?c=46608
+http://clubtv.link/2ene/smartv2.php?c=46608
 
 #EXTINF:-1 ,AMC HD
-http://tecnotv.club/2ene/smartv2.php?c=46612
+http://clubtv.link/2ene/smartv2.php?c=46612
 
 #EXTINF:-1 ,TNT HD
-http://tecnotv.club/2ene/smartv2.php?c=59353
+http://clubtv.link/2ene/smartv2.php?c=59353
 
 #EXTINF:-1 ,CINECANAL HD
-http://tecnotv.club/2ene/smartv2.php?c=46624
+http://clubtv.link/2ene/smartv2.php?c=46624
 
 #EXTINF:-1 ,CINEMAX HD
-http://tecnotv.club/2ene/smartv2.php?c=46625
+http://clubtv.link/2ene/smartv2.php?c=46625
 
 #EXTINF:-1 ,FOX CIMEMA HD
-http://tecnotv.club/2ene/smartv2.php?c=46656
+http://clubtv.link/2ene/smartv2.php?c=46656
 
 #EXTINF:-1 ,FOX CLASSIC HD
-http://tecnotv.club/2ene/smartv2.php?c=46657
+http://clubtv.link/2ene/smartv2.php?c=46657
 
 #EXTINF:-1 ,FOX HD
-http://tecnotv.club/2ene/smartv2.php?c=46658
+http://clubtv.link/2ene/smartv2.php?c=46658
+
+#EXTINF:-1 ,FOX MOVIES HD
+http://clubtv.link/2ene/smartv2.php?c=46660
 
 #EXTINF:-1 ,FX HD
-http://tecnotv.club/2ene/smartv2.php?c=46667
+http://clubtv.link/2ene/smartv2.php?c=46667
 
 #EXTINF:-1 ,FXM HD
-http://tecnotv.club/2ene/smartv2.php?c=46668
+http://clubtv.link/2ene/smartv2.php?c=46668
+
+#EXTINF:-1 ,FOX PREMIUM ACTION 
+http://clubtv.link/2ene/smartv2.php?c=57204
+
+#EXTINF:-1 ,FOX PREMIUM CIMEMA 
+http://clubtv.link/2ene/smartv2.php?c=57210
 
 #EXTINF:-1 ,PARAMOUNT HD
-http://tecnotv.club/2ene/smartv2.php?c=46697
+http://clubtv.link/2ene/smartv2.php?c=46697
 
 #EXTINF:-1 ,SONY HD
-http://tecnotv.club/2ene/smartv2.php?c=7762
+http://clubtv.link/2ene/smartv2.php?c=7762
 
 #EXTINF:-1 ,SPACE HD
-http://tecnotv.club/2ene/smartv2.php?c=14871
+http://clubtv.link/2ene/smartv2.php?c=14871
 
 #EXTINF:-1 ,STAR MOVIES HD
-http://tecnotv.club/2ene/smartv2.php?c=55068
+http://clubtv.link/2ene/smartv2.php?c=55068
 
 #EXTINF:-1 ,STAR COMEDY 
-http://tecnotv.club/2ene/lista4.php?c=20746
+http://clubtv.link/2ene/lista4.php?c=20746
 
 #EXTINF:-1 ,STAR ACTION
-http://tecnotv.club/2ene/lista4.php?c=47
+http://clubtv.link/2ene/lista4.php?c=47
 
 #EXTINF:-1 ,STAR HITS
-http://tecnotv.club/2ene/lista4.php?c=33
+http://clubtv.link/2ene/lista4.php?c=33
+
+#EXTINF:-1 ,MAX PRIME 
+http://clubtv.link/2ene/lista4.php?c=1463
+
+#EXTINF:-1 ,MAX UP
+http://clubtv.link/2ene/lista4.php?c=139
 
 #EXTINF:-1 ,HBO HD
-http://tecnotv.club/2ene/smartv2.php?c=57398
+http://clubtv.link/2ene/smartv2.php?c=57398
 
 #EXTINF:-1 ,HBO2 HD
-http://tecnotv.club/2ene/smartv2.php?c=57403
+http://clubtv.link/2ene/smartv2.php?c=57403
 
 #EXTINF:-1 ,HBO FAMILY HD
-http://tecnotv.club/2ene/smartv2.php?c=57408
+http://clubtv.link/2ene/smartv2.php?c=57408
 
 #EXTINF:-1 ,HBO PLUS HD
-http://tecnotv.club/2ene/smartv2.php?c=57413
+http://clubtv.link/2ene/smartv2.php?c=57413
 
 #EXTINF:-1 ,HBO POP HD
-http://tecnotv.club/2ene/smartv2.php?c=57424
+http://clubtv.link/2ene/smartv2.php?c=57424
 
 #EXTINF:-1 ,HBO MUNDI
-http://tecnotv.club/2ene/lista4.php?c=137
+http://clubtv.link/2ene/lista4.php?c=137
 
 #EXTINF:-1 ,HBO SIGNATURE HD
-http://tecnotv.club/2ene/smartv2.php?c=57418
+http://clubtv.link/2ene/smartv2.php?c=57418
 
 #EXTINF:-1 ,WARNER HD
-http://tecnotv.club/2ene/smartv2.php?c=55127
+http://clubtv.link/2ene/smartv2.php?c=55127
 
 #EXTINF:-1 ,ANIMAL PLANET 
-http://tecnotv.club/2ene/smartv2.php?c=46613
+http://clubtv.link/2ene/smartv2.php?c=46613
 
 #EXTINF:-1 ,DISCOVERY CHANNEL
-http://tecnotv.club/2ene/smartv2.php?c=85366
+http://clubtv.link/2ene/smartv2.php?c=85366
 
 #EXTINF:-1 ,DISCOVERY H&H 
-http://tecnotv.club/2ene/smartv2.php?c=46632
+http://clubtv.link/2ene/smartv2.php?c=46632
 
 #EXTINF:-1 ,DISCOVERY SCIENCE HD
-http://tecnotv.club/2ene/smartv2.php?c=46634
+http://clubtv.link/2ene/smartv2.php?c=46634
 
 #EXTINF:-1 ,DISCOVERY THEATER HD
-http://tecnotv.club/2ene/smartv2.php?c=46635
+http://clubtv.link/2ene/smartv2.php?c=46635
 
 #EXTINF:-1 ,DISCOVERY WORLD 
-http://tecnotv.club/2ene/smartv2.php?c=46637
+http://clubtv.link/2ene/smartv2.php?c=46637
 
 #EXTINF:-1 ,DW DOCUMENTAL HD
-http://tecnotv.club/2ene/smartv2.php?c=46642
+http://clubtv.link/2ene/smartv2.php?c=46642
 
 #EXTINF:-1 ,EL GOURMET HD
-http://tecnotv.club/2ene/smartv2.php?c=46644
+http://clubtv.link/2ene/smartv2.php?c=46644
 
 #EXTINF:-1 ,HISTORY CHANNEL 
-http://tecnotv.club/2ene/smartv2.php?c=46674
+http://clubtv.link/2ene/smartv2.php?c=46674
 
 #EXTINF:-1 ,H2
-http://tecnotv.club/2ene/smartv2.php?c=237
+http://clubtv.link/2ene/smartv2.php?c=237
 
 #EXTINF:-1 ,DISCOVERY INVESTIGATION 
-http://tecnotv.club/2ene/smartv2.php?c=46678
+http://clubtv.link/2ene/smartv2.php?c=46678
 
 #EXTINF:-1 ,MEXIQUENSE TV
-http://tecnotv.club/2ene/smartv2.php?c=46682
+http://clubtv.link/2ene/smartv2.php?c=46682
 
 #EXTINF:-1 ,NAT GEO WILD 
-http://tecnotv.club/2ene/smartv2.php?c=46689
+http://clubtv.link/2ene/smartv2.php?c=46689
 
 #EXTINF:-1 ,NAT GEO HD
-http://tecnotv.club/2ene/smartv2.php?c=46690
+http://clubtv.link/2ene/smartv2.php?c=46690
 
 #EXTINF:-1 ,CINE ACCION 24HRS
-http://tecnotv.club/2ene/smartv2.php?c=14886
+http://clubtv.link/2ene/smartv2.php?c=14886
 
 #EXTINF:-1 ,CINE ACCION SAGAS
-http://tecnotv.club/2ene/smartv2.php?c=14888
+http://clubtv.link/2ene/smartv2.php?c=14888
 
 #EXTINF:-1 ,CINE FICCIÓN HD
-http://tecnotv.club/2ene/smartv2.php?c=14893
+http://clubtv.link/2ene/smartv2.php?c=14893
 
 #EXTINF:-1 ,ADN40 
-http://tecnotv.club/2ene/smartv2.php?c=46610
+http://clubtv.link/2ene/smartv2.php?c=46610
 
 #EXTINF:-1 ,CNN ESPAÑOL 
-http://tecnotv.club/2ene/smartv2.php?c=46626
+http://clubtv.link/2ene/smartv2.php?c=46626
 
 #EXTINF:-1 ,FORO TV
-http://tecnotv.club/2ene/smartv2.php?c=46654
+http://clubtv.link/2ene/smartv2.php?c=46654
 
 #EXTINF:-1 ,IMAGEN TV
-http://tecnotv.club/2ene/smartv2.php?c=46677
+http://clubtv.link/2ene/smartv2.php?c=46677
 
 #EXTINF:-1 ,CANAL 5
-http://tecnotv.club/2ene/lista4.php?c=226525
+http://clubtv.link/2ene/lista4.php?c=226525
