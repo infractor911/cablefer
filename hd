@@ -79,7 +79,7 @@ http://clubtv.link/nn17/lista4.php?c=6322&f=.m3u8
 http://clubtv.link/nn17/lista4.php?c=6723&f=.m3u8
 
 #EXTINF:-1 ,HBO MUNDI
-http://clubtv.link/nn17/lista4.php?c=137&f=.m3u8
+http://clubtv.link/nn17/lista2.php?c=3299&f=.m3u8
 
 #EXTINF:-1 ,HBO SIGNATURE HD
 http://clubtv.link/nn17/lista4.php?c=6446&f=.m3u8
@@ -130,13 +130,7 @@ http://clubtv.link/nn17/lista4.php?c=6263&f=.m3u8
 http://clubtv.link/nn17/lista4.php?c=6261&f=.m3u8
 
 #EXTINF:-1 ,CINE ACCION 24HRS
-http://clubtv.link/nn17/smartv2.php?c=14886&f=.m3u8
-
-#EXTINF:-1 ,CINE ACCION SAGAS
-http://clubtv.link/nn17/smartv2.php?c=14888&f=.m3u8
-
-#EXTINF:-1 ,CINE FICCIÓN HD
-http://clubtv.link/nn17/smartv2.php?c=14893&f=.m3u8
+http://clubtv.link/nn17/lista4.php?c=6589&f=.m3u8
 
 #EXTINF:-1 ,ADN40 
 http://clubtv.link/nn17/smartv2.php?c=46610&f=.m3u8
