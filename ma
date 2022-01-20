@@ -118,7 +118,7 @@ http://clubtv.link/nn17/geomex.php?c=89&p=3&k=tecnotv&f=.m3u8
 http://clubtv.link/nn17/smartv.php?c=h2
 
 #EXTINF:-1 ,DISCOVERY iD
-http://clubtv.link/nn17/geomex.php?c=68&p=3&k=tecnotv&f=.m3u8
+http://clubtv.link/nn17/geomex3.php?c=68&f=.m3u8
 
 #EXTINF:-1 ,DISCOVERY CHANNEL
 http://clubtv.link/nn17/geomex.php?c=86&p=3&k=tecnotv&f=.m3u8
