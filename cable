@@ -60,6 +60,27 @@ http://clubtv.link/nn17/geomex.php?c=201&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 ,Fox2
 http://clubtv.link/nn17/geomex.php?c=46&p=3&k=tecnoplay&f=.m3u8
 
+#EXTINF:-1 ,HBO HD
+http://clubtv.link/nn17/lista4.php?c=6450&f=.m3u8
+
+#EXTINF:-1 ,HBO2 HD
+http://clubtv.link/nn17/lista4.php?c=6319&f=.m3u8
+
+#EXTINF:-1 ,HBO FAMILY HD
+http://clubtv.link/nn17/lista4.php?c=6321&f=.m3u8
+
+#EXTINF:-1 ,HBO XTREME
+http://clubtv.link/nn17/lista4.php?c=6322&f=.m3u8
+
+#EXTINF:-1 ,HBO PLUS
+http://clubtv.link/nn17/lista4.php?c=6723&f=.m3u8
+
+#EXTINF:-1 ,HBO MUNDI
+http://clubtv.link/nn17/lista2.php?c=3299&f=.m3u8
+
+#EXTINF:-1 ,HBO SIGNATURE HD
+http://clubtv.link/nn17/lista4.php?c=6446&f=.m3u8
+
 #EXTINF:-1 ,SONY
 http://clubtv.link/nn17/geomex.php?c=48&p=3&k=tecnotv&f=.m3u8
 
@@ -152,9 +173,6 @@ http://clubtv.link/nn17/geomex.php?c=94&p=3&k=tecnotv&f=.m3u8
 
 #EXTINF:-1 ,RAKUTEN TV
 https://rakuten-actionmovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 ,HBO
-http://clubtv.link/nn17/principal.php?c=hboes&f=.m3u8
 
 #EXTINF:-1 ,ARCHIVOS DEL FBI
 http://clubtv.link/nn17/plutotv.php?c=5e67d41b93312100076f3fca
