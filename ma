@@ -60,9 +60,6 @@ http://clubtv.link/fb3/geomex.php?c=207&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 ,FXM
 http://clubtv.link/fb3/geomex.php?c=138&p=3&k=tecnotv&f=.m3u8
 
-#EXTINF:-1 ,FOX MOVIES 
-http://clubtv.link/fb3/geomex.php?c=146&p=3&k=tecnotv&f=.m3u8
-
 #EXTINF:-1 ,CINECANAL
 http://clubtv.link/fb3/geomex.php?c=149&p=3&k=tecnotv&f=.m3u8
 
@@ -71,12 +68,6 @@ http://clubtv.link/fb3/geomex.php?c=158&p=3&k=tecnotv&f=.m3u8
 
 #EXTINF:-1 ,AMC
 http://clubtv.link/fb3/geomex.php?c=131&p=3&k=tecnotv&f=.m3u8
-
-#EXTINF:-1 ,STAR CINEMA
-http://clubtv.link/fb3/geomex.php?c=1729&p=3&k=tecnotv&f=.m3u8
-
-#EXTINF:-1 ,FOX ACTION
-http://clubtv.link/fb3/geomex.php?c=336&p=3&k=tecnotv&f=.m3u8
 
 #EXTINF:-1 ,PARAMOUNT CHANNEL
 http://clubtv.link/fb3/geomex.php?c=1726&p=3&k=tecnotv&f=.m3u8
