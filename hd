@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 ,A&E HD
-http://clubtv.link/fb3/lista2.m3u
+http://clubtv.link/fb3/lista2.php?c=3019&f=.m3u8
 
 #EXTINF:-1 ,AMC HD
 http://clubtv.link/fb3/lista4.php?c=6772&f=.m3u8
