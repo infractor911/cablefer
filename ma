@@ -43,28 +43,28 @@ http://clubtv.link/f26/geomex.php?c=1942&p=3&k=tecnoplay&f=.m3u8
 http://clubtv.link/f26/geomex.php?c=2606&p=3&k=tecnotv&f=.m3u8
 
 #EXTINF:-1 ,HBO POP
-http://clubtv.link/f26/lista2.php?c=3304&f=.m3u8
+http://clubtv.link/f26/lista1.php?c=3304&f=.m3u8
 
 #EXTINF:-1 ,HBO HD
-http://clubtv.link/f26/lista2.php?c=3296&f=.m3u8
+http://clubtv.link/f26/lista1.php?c=3296&f=.m3u8
 
 #EXTINF:-1 ,HBO2 HD
-http://clubtv.link/f26/lista2.php?c=3297&f=.m3u8
+http://clubtv.link/f26/lista1.php?c=3297&f=.m3u8
 
 #EXTINF:-1 ,HBO FAMILY HD
-http://clubtv.link/f26/lista2.php?c=3298&f=.m3u8
+http://clubtv.link/f26/lista1.php?c=3298&f=.m3u8
 
 #EXTINF:-1 ,HBO XTREME
-http://clubtv.link/f26/lista2.php?c=3302&f=.m3u8
+http://clubtv.link/f26/lista1.php?c=3302&f=.m3u8
 
 #EXTINF:-1 ,HBO PLUS
-http://clubtv.link/f26/lista2.php?c=3300&f=.m3u8
+http://clubtv.link/f26/lista1.php?c=3300&f=.m3u8
 
 #EXTINF:-1 ,HBO MUNDI
-http://clubtv.link/f26/lista2.php?c=3299&f=.m3u8
+http://clubtv.link/f26/lista1.php?c=3299&f=.m3u8
 
 #EXTINF:-1 ,HBO SIGNATURE HD
-http://clubtv.link/f26/lista2.php?c=3301&f=.m3u8
+http://clubtv.link/f26/lista1.php?c=3301&f=.m3u8
 
 #EXTINF:-1 ,COMEDY CENTRAL
 http://clubtv.link/f26/geomex.php?c=340&p=3&k=tecnotv&f=.m3u8
