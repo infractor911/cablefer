@@ -1,5 +1,50 @@
 #EXTM3U
 
+#EXTINF:-1 ,Azteca 7
+http://clubtv.link/m03/ch04/lista1.php?c=3030&f=.m3u8
+
+#EXTINF:-1 ,Canal 5
+http://clubtv.link/m03/ch04/lista1.php?c=3038&f=.m3u8
+
+#EXTINF:-1 ,CANAL 2
+http://clubtv.link/m03/ch04/lista1.php?c=3100&f=.m3u8
+
+#EXTINF:-1 ,Telenovelas
+http://clubtv.link/m03/ch04/lista1.php?c=3129&f=.m3u8
+
+#EXTINF:-1 ,Banda max
+http://clubtv.link/m03/ch04/lista1.php?c=3034&f=.m3u8
+
+#EXTINF:-1 , CNN ESPAÑOL
+http://clubtv.link/m03/ch04/lista1.php?c=3042&f=.m3u8
+
+#EXTINF:-1 ,MILENIO
+http://clubtv.link/m03/ch04/lista1.php?c=3103&f=.m3u8
+
+#EXTINF:-1 ,ADN40 
+http://clubtv.link/m03/ch04/lista1.php?c=3020&f=.m3u8
+
+#EXTINF:-1 ,IMAGEN TV
+http://clubtv.link/m03/ch04/lista1.php?c=3097&f=.m3u8
+
+#EXTINF:-1 ,FORO TV
+http://clubtv.link/m03/ch04/lista1.php?c=3071&f=.m3u8
+
+#EXTINF:-1 ,ANTENA 3
+http://clubtv.link/m03/ch04/lista1.php?c=3023&f=.m3u8
+
+#EXTINF:-1 ,CANAL ONCE
+http://clubtv.link/m03/ch04/lista1.php?c=3037&f=.m3u8
+
+#EXTINF:-1 ,Comedy Central
+http://clubtv.link/m03/ch04/lista1.php?c=3044&f=.m3u8
+
+#EXTINF:-1 ,MTV
+http://clubtv.link/m03/ch04/lista1.php?c=3104&f=.m3u8
+
+#EXTINF:-1 ,VH1 
+http://clubtv.link/m03/ch04/lista1.php?c=3139&f=.m3u8
+
 #EXTINF:-1 ,A&E HD
 http://clubtv.link/m03/ch04/lista1.php?c=3019&f=.m3u8
 
@@ -22,7 +67,7 @@ http://clubtv.link/m03/ch04/lista1.php?c=3072&f=.m3u8
 http://clubtv.link/m03/ch04/lista1.php?c=3084&f=.m3u8
 
 #EXTINF:-1 ,FXM HD
-http://clubtv.link/m03/ch04/lista1.php?c=3085&f=.m3u8
+http://clubtv.link/m03/ch04/lista1.php?c=3291&f=.m3u8
 
 #EXTINF:-1 ,PARAMOUNT HD
 http://clubtv.link/m03/ch04/lista1.php?c=3116&f=.m3u8
@@ -96,35 +141,9 @@ http://clubtv.link/m03/ch04/lista1.php?c=3258&f=.m3u8
 #EXTINF:-1 ,DISCOVERY INVESTIGATION 
 http://clubtv.link/m03/ch04/lista1.php?c=3051&f=.m3u8
 
-#EXTINF:-1 ,MEXIQUENSE TV
-http://clubtv.link/m03/smartv2.php?c=46682&f=.m3u8
-
 #EXTINF:-1 ,NAT GEO WILD 
 http://clubtv.link/m03/ch04/lista1.php?c=3263&f=.m3u8
 
 #EXTINF:-1 ,NAT GEO HD
-http://clubtv.link/m03/ch04/lista1.php?c=3108&f=.m3u8
+http://clubtv.link/m03/ch04/lista1.php?c=3262&f=.m3u8
 
-#EXTINF:-1 ,MILENIO
-http://clubtv.link/m03/ch04/lista1.php?c=3103&f=.m3u8
-
-#EXTINF:-1 ,ADN40 
-http://clubtv.link/m03/ch04/lista1.php?c=3020&f=.m3u8
-
-#EXTINF:-1 ,CNN ESPAÑOL 
-http://clubtv.link/m03/ch04/lista1.php?c=3042&f=.m3u8
-
-#EXTINF:-1 ,FORO TV
-http://clubtv.link/m03/ch04/lista1.php?c=3071&f=.m3u8
-
-#EXTINF:-1 ,IMAGEN TV
-http://clubtv.link/m03/ch04/lista1.php?c=3097&f=.m3u8
-
-#EXTINF:-1 ,ANTENA 3
-http://clubtv.link/m03/ch04/lista1.php?c=3023&f=.m3u8
-
-#EXTINF:-1 ,CANAL ONCE
-http://clubtv.link/m03/ch04/lista1.php?c=3037&f=.m3u8
-
-#EXTINF:-1 ,CANAL 5
-http://clubtv.link/m03/geomex.php?c=1785&f=.m3u8 
