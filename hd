@@ -79,7 +79,7 @@ http://clubtv.link/11ab/abril1/geomex2.php?c=129&f=.m3u8
 http://clubtv.link/11ab/abril1/lista2.php?c=3304&f=.m3u8
 
 #EXTINF:-1 ,HBO HD
-http://clubtv.link/11ab/abril1/lista2.php?c=3296&f=.m3u8
+http://clubtv.link/11ab/abril1/android1.php?c=64&f=.m3u8|User-Agent=suplayer
 
 #EXTINF:-1 ,HBO2 HD
 http://clubtv.link/11ab/abril1/lista1.php?c=3297&f=.m3u8
