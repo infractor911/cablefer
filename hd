@@ -10,7 +10,7 @@ http://clubtv.link/ab25c/ab25b/geomex2.php?c=1785&f=.m3u8
 http://clubtv.link/ab25c/ab25b/geomex2.php?c=1784&f=.m3u8
 
 #EXTINF:-1 ,Telenovelas
-http://clubtv.link/ab25c/ab25b/lista1.php?c=3129&f=.m3u8
+http://clubtv.link/ab25c/ab25b/lista2.php?c=56&f=.m3u8
 
 #EXTINF:-1 ,Banda max
 http://clubtv.link/ab25c/ab25b/geomex3.php?c=221&f=.m3u8
@@ -39,10 +39,7 @@ http://clubtv.link/ab25c/ab25b/geomex2.php?c=1942&f=.m3u8
 #EXTINF:-1 ,Comedy Central
 http://clubtv.link/ab25c/ab25b/geomex2.php?c=340&f=.m3u8
 
-#EXTINF:-1 ,MTV
-http://clubtv.link/ab25c/ab25b/lista1.php?c=3315&f=.m3u8
-
-#EXTINF:-1 ,VH1 
+#EXTINF:-1 ,MTV 
 http://clubtv.link/ab25c/ab25b/geomex2.php?c=334&f=.m3u8
 
 #EXTINF:-1 ,A&E HD
@@ -74,6 +71,12 @@ http://clubtv.link/ab25c/ab25b/geomex2.php?c=48&f=.m3u8
 
 #EXTINF:-1 ,SPACE HD
 http://clubtv.link/ab25c/ab25b/geomex2.php?c=129&f=.m3u8
+
+#EXTINF:-1 ,GOLDEN EDGE
+http://clubtv.link/ab25c/ab25b/lista2.php?c=74&f=.m3u8
+
+#EXTINF:-1 ,ESTUDIO UNIVERSAL 
+http://clubtv.link/ab25c/ab25b/lista2.php?c=80&f=.m3u8
 
 #EXTINF:-1 ,HBO POP
 http://clubtv.link/ab25c/ab25b/lista1.php?c=3304&f=.m3u8
@@ -133,7 +136,7 @@ http://clubtv.link/ab25c/ab25b/geomex2.php?c=2145&f=.m3u8
 http://clubtv.link/ab25c/ab25b/geomex2.php?c=89&f=.m3u8
 
 #EXTINF:-1 ,H2
-http://clubtv.link/ab25c/ab25b/lista1.php?c=3258&f=.m3u8
+http://clubtv.link/ab25c/ab25b/lista2.php?c=50&f=.m3u8
 
 #EXTINF:-1 ,DISCOVERY INVESTIGATION 
 http://clubtv.link/ab25c/ab25b/geomex2.php?c=68&f=.m3u8
