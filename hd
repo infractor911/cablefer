@@ -16,7 +16,7 @@ http://clubtv.link/jun14/j1414/lista1.php?c=3129&f=.m3u8
 http://clubtv.link/jun14/j1414/geomex3.php?c=221&f=.m3u8
 
 #EXTINF:-1 , CNN ESPAÑOL
-http://clubtv.link/jun14/j1414/geomex3.php?c=187&f=.m3u8
+http://clubtv.link/jun14/j1414/lista2.php?c=a0ps&f=.m3u8
 
 #EXTINF:-1 ,MILENIO
 http://clubtv.link/jun14/j1414/geomex2.php?c=1250&f=.m3u8
@@ -40,10 +40,10 @@ http://clubtv.link/jun14/j1414/geomex2.php?c=1942&f=.m3u8
 http://clubtv.link/jun14/j1414/geomex2.php?c=340&f=.m3u8
 
 #EXTINF:-1 ,MTV
-http://clubtv.link/jun14/j1414/lista1.php?c=3315&f=.m3u8
+http://clubtv.link/jun14/j1414/lista2.php?c=a0sw&f=.m3u8
 
 #EXTINF:-1 ,VH1 
-http://clubtv.link/jun14/j1414/geomex2.php?c=334&f=.m3u8
+http://clubtv.link/jun14/j1414/lista2.php?c=a0pz&f=.m3u8
 
 #EXTINF:-1 ,A&E HD
 http://clubtv.link/jun14/j1414/geomex2.php?c=62&f=.m3u8
@@ -72,26 +72,41 @@ http://clubtv.link/jun14/j1414/geomex2.php?c=1726&f=.m3u8
 #EXTINF:-1 ,SONY HD
 http://clubtv.link/jun14/j1414/geomex2.php?c=48&f=.m3u8
 
+#EXTINF:-1 ,SONY MOVIES 
+http://clubtv.link/jun14/j1414/lista2.php?c=a0qc&f=.m3u8
+
 #EXTINF:-1 ,SPACE HD
 http://clubtv.link/jun14/j1414/geomex2.php?c=129&f=.m3u8
+
+#EXTINF:-1 ,FILMS AND ARTS
+http://clubtv.link/jun14/j1414/lista2.php?c=a0q6&f=.m3u8
+
+#EXTINF:-1 ,UNIVERSAL CINEMA
+http://clubtv.link/jun14/j1414/lista2.php?c=a0v2&f=.m3u8
+
+#EXTINF:-1 ,UNIVERSAL COMEDY
+http://clubtv.link/jun14/j1414/lista2.php?c=a0t1&f=.m3u8
+
+#EXTINF:-1 ,UNIVERSAL CRIME 
+http://clubtv.link/jun14/j1414/lista2.php?c=a0t0&f=.m3u8
 
 #EXTINF:-1 ,HBO POP
 http://clubtv.link/jun14/j1414/lista1.php?c=a0cv&f=.m3u8
 
 #EXTINF:-1 ,HBO HD
-http://clubtv.link/jun14/j1414/listaz.php?c=80&f=.m3u8
+http://clubtv.link/jun14/j1414/lista2.php?c=a0or&f=.m3u8
 
 #EXTINF:-1 ,HBO2 HD
-http://clubtv.link/jun14/j1414/listaz.php?c=32&f=.m3u8
+http://clubtv.link/jun14/j1414/lista2.php?c=a0os&f=.m3u8
 
 #EXTINF:-1 ,HBO FAMILY HD
-http://clubtv.link/jun14/j1414/lista1.php?c=a0cq&f=.m3u8
+http://clubtv.link/jun14/j1414/lista2.php?c=a0ou&f=.m3u8
 
 #EXTINF:-1 ,HBO XTREME
-http://clubtv.link/jun14/j1414/lista1.php?c=a0cr&f=.m3u8
+http://clubtv.link/jun14/j1414/lista2.php?c=a0ov&f=.m3u8
 
 #EXTINF:-1 ,HBO PLUS
-http://clubtv.link/jun14/j1414/lista1.php?c=a0cs&f=.m3u8
+http://clubtv.link/jun14/j1414/lista2.php?c=a0ot&f=.m3u8
 
 #EXTINF:-1 ,HBO MUNDI
 http://clubtv.link/jun14/j1414/lista1.php?c=a0bx&f=.m3u8
@@ -103,7 +118,7 @@ http://clubtv.link/jun14/j1414/lista1.php?c=a0ct&f=.m3u8
 http://clubtv.link/jun14/j1414/geomex2.php?c=205&f=.m3u8
 
 #EXTINF:-1 ,ANIMAL PLANET 
-http://clubtv.link/jun14/j1414/geomex2.php?c=88&f=.m3u8
+http://clubtv.link/jun14/j1414/lista2.php?c=a0q4&f=.m3u8
 
 #EXTINF:-1 ,DISCOVERY CHANNEL
 http://clubtv.link/jun14/j1414/geomex2.php?c=86&f=.m3u8
@@ -115,7 +130,7 @@ http://clubtv.link/jun14/j1414/geomex2.php?c=96&f=.m3u8
 http://clubtv.link/jun14/j1414/geomex2.php?c=98&f=.m3u8
 
 #EXTINF:-1 ,DISCOVERY THEATER HD
-http://clubtv.link/jun14/j1414/geomex2.php?c=68&f=.m3u8
+http://clubtv.link/jun14/j1414/lista2.php?c=a0sr&f=.m3u8
 
 #EXTINF:-1 ,DISCOVERY WORLD 
 http://clubtv.link/jun14/j1414/geomex2.php?c=101&f=.m3u8
@@ -136,7 +151,7 @@ http://clubtv.link/jun14/j1414/geomex2.php?c=89&f=.m3u8
 http://clubtv.link/jun14/j1414/lista1.php?c=3258&f=.m3u8
 
 #EXTINF:-1 ,DISCOVERY INVESTIGATION 
-http://clubtv.link/jun14/j1414/geomex2.php?c=68&f=.m3u8
+http://clubtv.link/jun14/j1414/lista2.php?c=a0tf&f=.m3u8
 
 #EXTINF:-1 ,NAT GEO WILD 
 http://clubtv.link/jun14/j1414/geomex2.php?c=92&f=.m3u8
