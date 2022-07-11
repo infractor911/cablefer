@@ -22,7 +22,7 @@ http://clubtv.link/24jun/2727j/lista2.php?c=a0ps&f=.m3u8
 http://clubtv.link/24jun/2727j/geomex3.php?c=1250&f=.m3u8
 
 #EXTINF:-1 ,ADN40 
-http://clubtv.link/24jun/2727j/geomex2.php?c=184&f=.m3u8
+http://clubtv.link/24jun/2727j/geomex3.php?c=184&f=.m3u8
 
 #EXTINF:-1 ,IMAGEN TV
 http://clubtv.link/24jun/2727j/geomex3.php?c=2606&f=.m3u8
@@ -70,7 +70,7 @@ http://clubtv.link/24jun/2727j/geomex3.php?c=209&f=.m3u8
 http://clubtv.link/24jun/2727j/geomex3.php?c=1726&f=.m3u8
 
 #EXTINF:-1 ,SONY HD
-http://clubtv.link/24jun/2727j/geomex3.php?c=48&f=.m3u8
+http://clubtv.link/24jun/2727j/lista3.php?c=145&f=.m3u8
 
 #EXTINF:-1 ,SONY MOVIES 
 http://clubtv.link/24jun/2727j/lista2.php?c=a0qc&f=.m3u8
@@ -115,13 +115,13 @@ http://clubtv.link/24jun/2727j/lista1.php?c=a0bx&f=.m3u8
 http://clubtv.link/24jun/2727j/lista1.php?c=a0ct&f=.m3u8
 
 #EXTINF:-1 ,WARNER HD
-http://clubtv.link/24jun/2727j/lista3.php?c=102&f=.m3u8
+http://clubtv.link/24jun/2727j/geomex3.php?c=205&f=.m3u8
 
 #EXTINF:-1 ,ANIMAL PLANET 
 http://clubtv.link/24jun/2727j/lista2.php?c=a0q4&f=.m3u8
 
 #EXTINF:-1 ,DISCOVERY CHANNEL
-http://clubtv.link/24jun/2727j/lista3.php?c=639&f=.m3u8
+http://clubtv.link/24jun/2727j/lista3.php?c=22&f=.m3u8
 
 #EXTINF:-1 ,DISCOVERY H&H 
 http://clubtv.link/24jun/2727j/geomex3.php?c=96&f=.m3u8
@@ -148,13 +148,10 @@ http://clubtv.link/24jun/2727j/geomex3.php?c=2145&f=.m3u8
 http://clubtv.link/24jun/2727j/geomex3.php?c=89&f=.m3u8
 
 #EXTINF:-1 ,H2
-http://clubtv.link/24jun/2727j/lista1.php?c=3258&f=.m3u8
+http://clubtv.link/24jun/2727j/lista3.php?c=61&f=.m3u8
 
 #EXTINF:-1 ,DISCOVERY INVESTIGATION 
 http://clubtv.link/24jun/2727j/lista2.php?c=a0tf&f=.m3u8
-
-#EXTINF:-1 ,NAT GEO WILD 
-http://clubtv.link/24jun/2727j/geomex3.php?c=92&f=.m3u8
 
 #EXTINF:-1 ,NAT GEO HD
 http://clubtv.link/24jun/2727j/geomex3.php?c=91&f=.m3u8
