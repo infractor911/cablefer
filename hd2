@@ -10,7 +10,7 @@ http://clubtv.link/24jun/2727j/geomex3.php?c=1785&f=.m3u8
 http://clubtv.link/24jun/2727j/geomex3.php?c=1784&f=.m3u8
 
 #EXTINF:-1 ,Telenovelas
-http://clubtv.link/24jun/2727j/lista1.php?c=3129&f=.m3u8
+http://clubtv.link/24jun/2727j/plutotv.php?c=5cf96cc422df39f1a338d165/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7df7a3-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a164a5e2-21e7-49e8-a7e9-bbc4785c7386&userId=&serverSideAds=true
 
 #EXTINF:-1 ,Banda max
 http://clubtv.link/24jun/2727j/geomex3.php?c=221&f=.m3u8
@@ -61,7 +61,7 @@ http://clubtv.link/24jun/2727j/geomex3.php?c=149&f=.m3u8
 http://clubtv.link/24jun/2727j/geomex3.php?c=158&f=.m3u8
 
 #EXTINF:-1 ,FOX HD
-http://clubtv.link/24jun/2727j/lista3.php?c=489&f=.m3u8
+http://clubtv.link/24jun/2727j/geomex3.php?c=201&f=.m3u8
 
 #EXTINF:-1 ,FX HD
 http://clubtv.link/24jun/2727j/geomex3.php?c=209&f=.m3u8
@@ -70,7 +70,7 @@ http://clubtv.link/24jun/2727j/geomex3.php?c=209&f=.m3u8
 http://clubtv.link/24jun/2727j/geomex3.php?c=1726&f=.m3u8
 
 #EXTINF:-1 ,SONY HD
-http://clubtv.link/24jun/2727j/lista3.php?c=145&f=.m3u8
+http://clubtv.link/24jun/2727j/lista2.php?c=11
 
 #EXTINF:-1 ,SONY MOVIES 
 http://clubtv.link/24jun/2727j/lista2.php?c=a0qc&f=.m3u8
@@ -94,19 +94,19 @@ http://clubtv.link/24jun/2727j/lista2.php?c=a0t0&f=.m3u8
 http://clubtv.link/24jun/2727j/lista1.php?c=a0cv&f=.m3u8
 
 #EXTINF:-1 ,HBO HD
-http://clubtv.link/24jun/2727j/lista3.php?c=654&f=.m3u8
+http://clubtv.link/24jun/2727j/lista2.php?c=80
 
 #EXTINF:-1 ,HBO2 HD
-http://clubtv.link/24jun/2727j/lista3.php?c=732&f=.m3u8
+http://clubtv.link/24jun/2727j/lista2.php?c=32
 
 #EXTINF:-1 ,HBO FAMILY HD
-http://clubtv.link/24jun/2727j/lista3.php?c=63&f=.m3u8
+http://clubtv.link/24jun/2727j/lista2.php?c=33
 
 #EXTINF:-1 ,HBO XTREME
-http://clubtv.link/24jun/2727j/lista3.php?c=841&f=.m3u8
+http://clubtv.link/24jun/2727j/lista2.php?c=35
 
 #EXTINF:-1 ,HBO PLUS
-http://clubtv.link/24jun/2727j/lista3.php?c=655&f=.m3u8
+http://clubtv.link/24jun/2727j/lista2.php?c=81
 
 #EXTINF:-1 ,HBO MUNDI
 http://clubtv.link/24jun/2727j/lista1.php?c=a0bx&f=.m3u8
@@ -118,10 +118,10 @@ http://clubtv.link/24jun/2727j/lista1.php?c=a0ct&f=.m3u8
 http://clubtv.link/24jun/2727j/geomex3.php?c=205&f=.m3u8
 
 #EXTINF:-1 ,ANIMAL PLANET 
-http://clubtv.link/24jun/2727j/lista1.php?c=a0ap&f=.m3u8
+http://clubtv.link/24jun/2727j/lista2.php?c=19
 
 #EXTINF:-1 ,DISCOVERY CHANNEL
-http://clubtv.link/24jun/2727j/geomex3.php?c=86&f=.m3u8
+http://clubtv.link/24jun/2727j/lista2.php?c=18
 
 #EXTINF:-1 ,DISCOVERY H&H 
 http://clubtv.link/24jun/2727j/geomex3.php?c=96&f=.m3u8
@@ -130,7 +130,7 @@ http://clubtv.link/24jun/2727j/geomex3.php?c=96&f=.m3u8
 http://clubtv.link/24jun/2727j/geomex3.php?c=98&f=.m3u8
 
 #EXTINF:-1 ,DISCOVERY THEATER HD
-http://clubtv.link/24jun/2727j/listaz.php?c=94&f=.m3u8
+http://clubtv.link/24jun/2727j/geomex3.php?c=95&f=.m3u8
 
 #EXTINF:-1 ,DISCOVERY WORLD 
 http://clubtv.link/24jun/2727j/geomex3.php?c=101&f=.m3u8
@@ -148,7 +148,7 @@ http://clubtv.link/24jun/2727j/geomex3.php?c=2145&f=.m3u8
 http://clubtv.link/24jun/2727j/geomex3.php?c=89&f=.m3u8
 
 #EXTINF:-1 ,H2
-http://clubtv.link/24jun/2727j/listaz.php?c=95&f=.m3u8
+http://clubtv.link/24jun/2727j/lista3.php?c=61&f=.m3u8
 
 #EXTINF:-1 ,DISCOVERY INVESTIGATION 
 http://clubtv.link/24jun/2727j/listaz.php?c=92&f=.m3u8
