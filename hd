@@ -78,17 +78,17 @@ http://clubtv.link/jul19/julio19/lista2.php?c=a0qc&f=.m3u8
 #EXTINF:-1 ,SPACE HD
 http://clubtv.link/jul19/julio19/geomex2.php?c=129&f=.m3u8
 
-#EXTINF:-1 ,FILMS AND ARTS
-http://clubtv.link/jul19/julio19/lista2.php?c=a0q6&f=.m3u8
+#EXTINF:-1 ,GOLDEN+
+http://clubtv.link/jul19/julio19/geomex3.php?c=122&f=.m3u8
 
-#EXTINF:-1 ,UNIVERSAL CINEMA
-http://clubtv.link/jul19/julio19/lista2.php?c=a0v2&f=.m3u8
+#EXTINF:-1 ,GOLDEN
+http://clubtv.link/jul19/julio19/geomex3.php?c=123&f=.m3u8
 
-#EXTINF:-1 ,UNIVERSAL COMEDY
-http://clubtv.link/jul19/julio19/lista2.php?c=a0t1&f=.m3u8
+#EXTINF:-1 ,GOLDEN EDGE
+http://clubtv.link/jul19/julio19/geomex3.php?c=124&f=.m3u8
 
-#EXTINF:-1 ,UNIVERSAL CRIME 
-http://clubtv.link/jul19/julio19/lista2.php?c=a0t0&f=.m3u8
+#EXTINF:-1 ,MORBIDO
+http://clubtv.link/jul19/julio19/geomex3.php?c=140&f=.m3u8
 
 #EXTINF:-1 ,HBO POP
 http://clubtv.link/jul19/julio19/lista1.php?c=a0cv&f=.m3u8
