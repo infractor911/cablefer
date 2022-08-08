@@ -37,52 +37,52 @@ http://clubtv.link/agos8/agosto8/lista1.php?c=3023&f=.m3u8
 http://clubtv.link/agos8/agosto8/geomex.php?c=1942&f=.m3u8
 
 #EXTINF:-1 ,Comedy Central
-http://clubtv.link/agos8/agosto8/lista1.php?c=a0b1&f=.m3u8
+http://clubtv.link/agos8/agosto8/lista1.php?c=a0su&f=.m3u8
 
 #EXTINF:-1 ,MTV
-http://clubtv.link/agos8/agosto8/lista2.php?c=a0sw&f=.m3u8
+http://clubtv.link/agos8/agosto8/lista1.php?c=a0po&f=.m3u8
 
 #EXTINF:-1 ,VH1 
 http://clubtv.link/agos8/agosto8/lista2.php?c=a0pz&f=.m3u8
 
 #EXTINF:-1 ,A&E HD
-http://clubtv.link/agos8/agosto8/lista1.php?c=a0cl&f=.m3u8
+http://clubtv.link/agos8/agosto8/lista1.php?c=a0q7&f=.m3u8
 
 #EXTINF:-1 ,AMC HD
-http://clubtv.link/agos8/agosto8/lista1.php?c=a0b4&f=.m3u8
+http://clubtv.link/agos8/agosto8/lista1.php?c=a0q8&f=.m3u8
 
 #EXTINF:-1 ,TNT HD
-http://clubtv.link/agos8/agosto8/geomex.php?c=126&f=.m3u8
+http://clubtv.link/agos8/agosto8/lista1.php?c=a0sq&f=.m3u8
 
 #EXTINF:-1 ,CINECANAL HD
-http://clubtv.link/agos8/agosto8/geomex.php?c=149&f=.m3u8
+http://clubtv.link/agos8/agosto8/lista1.php?c=a0sl&f=.m3u8
 
 #EXTINF:-1 ,CINEMAX HD
 http://clubtv.link/agos8/agosto8/geomex.php?c=158&f=.m3u8
 
 #EXTINF:-1 ,FOX HD
-http://clubtv.link/agos8/agosto8/geomex.php?c=201&f=.m3u8
+http://clubtv.link/agos8/agosto8/lista1.php?c=a0si&f=.m3u8
 
 #EXTINF:-1 ,FX HD
-http://clubtv.link/agos8/agosto8/geomex.php?c=209&f=.m3u8
+http://clubtv.link/agos8/agosto8/lista1.php?c=a0qa&f=.m3u8
 
 #EXTINF:-1 ,PARAMOUNT HD
-http://clubtv.link/agos8/agosto8/geomex.php?c=1726&f=.m3u8
+http://clubtv.link/agos8/agosto8/lista1.php?c=a0t9&f=.m3u8
 
 #EXTINF:-1 ,SONY HD
-http://clubtv.link/agos8/agosto8/lista2.php?c=11
+http://clubtv.link/agos8/agosto8/lista1.php?c=a0sk&f=.m3u8
 
 #EXTINF:-1 ,SONY MOVIES 
-http://clubtv.link/agos8/agosto8/lista2.php?c=a0qc&f=.m3u8
+http://clubtv.link/agos8/agosto8/lista1.php?c=a0qc&f=.m3u8
 
 #EXTINF:-1 ,SPACE HD
-http://clubtv.link/agos8/agosto8/geomex.php?c=129&f=.m3u8
+http://clubtv.link/agos8/agosto8/lista1.php?c=a0ph&f=.m3u8
 
 #EXTINF:-1 ,GOLDEN+
 http://clubtv.link/agos8/agosto8/geomex.php?c=122&f=.m3u8
 
 #EXTINF:-1 ,GOLDEN
-http://clubtv.link/agos8/agosto8/geomex.php?c=123&f=.m3u8
+http://clubtv.link/agos8/agosto8/lista1.php?c=a0rh&f=.m3u8
 
 #EXTINF:-1 ,GOLDEN EDGE
 http://clubtv.link/agos8/agosto8/geomex.php?c=124&f=.m3u8
@@ -94,19 +94,19 @@ http://clubtv.link/agos8/agosto8/geomex.php?c=140&f=.m3u8
 http://clubtv.link/agos8/agosto8/lista1.php?c=a0cv&f=.m3u8
 
 #EXTINF:-1 ,HBO HD
-http://clubtv.link/agos8/agosto8/lista2.php?c=80
+http://clubtv.link/agos8/agosto8/lista1.php?c=a0or&f=.m3u8
 
 #EXTINF:-1 ,HBO2 HD
-http://clubtv.link/agos8/agosto8/lista2.php?c=32
+http://clubtv.link/agos8/agosto8/lista1.php?c=a0os&f=.m3u8
 
 #EXTINF:-1 ,HBO FAMILY HD
-http://clubtv.link/agos8/agosto8/lista2.php?c=33
+http://clubtv.link/agos8/agosto8/lista1.php?c=a0ou&f=.m3u8
 
 #EXTINF:-1 ,HBO XTREME
-http://clubtv.link/agos8/agosto8/lista2.php?c=35
+http://clubtv.link/agos8/agosto8/lista1.php?c=a0ov&f=.m3u8
 
 #EXTINF:-1 ,HBO PLUS
-http://clubtv.link/agos8/agosto8/lista2.php?c=81
+http://clubtv.link/agos8/agosto8/lista1.php?c=a0ot&f=.m3u8
 
 #EXTINF:-1 ,HBO MUNDI
 http://clubtv.link/agos8/agosto8/lista1.php?c=a0bx&f=.m3u8
@@ -115,46 +115,46 @@ http://clubtv.link/agos8/agosto8/lista1.php?c=a0bx&f=.m3u8
 http://clubtv.link/agos8/agosto8/lista1.php?c=a0ct&f=.m3u8
 
 #EXTINF:-1 ,WARNER HD
-http://clubtv.link/agos8/agosto8/geomex.php?c=205&f=.m3u8
+http://clubtv.link/agos8/agosto8/lista1.php?c=a0tk&f=.m3u8
 
 #EXTINF:-1 ,ANIMAL PLANET 
-http://clubtv.link/agos8/agosto8/lista2.php?c=19
+http://clubtv.link/agos8/agosto8/lista1.php?c=a0q4&f=.m3u8
 
 #EXTINF:-1 ,DISCOVERY CHANNEL
-http://clubtv.link/agos8/agosto8/geomex.php?c=113&f=.m3u8
+http://clubtv.link/agos8/agosto8/lista1.php?c=a0tb&f=.m3u8
 
 #EXTINF:-1 ,DISCOVERY H&H 
 http://clubtv.link/agos8/agosto8/geomex.php?c=96&f=.m3u8
 
 #EXTINF:-1 ,DISCOVERY SCIENCE HD
-http://clubtv.link/agos8/agosto8/geomex.php?c=98&f=.m3u8
+http://clubtv.link/agos8/agosto8/lista1.php?c=a0ny&f=.m3u8
 
 #EXTINF:-1 ,DISCOVERY THEATER HD
 http://clubtv.link/agos8/agosto8/geomex.php?c=95&f=.m3u8
 
 #EXTINF:-1 ,DISCOVERY WORLD 
-http://clubtv.link/agos8/agosto8/geomex.php?c=101&f=.m3u8
+http://clubtv.link/agos8/agosto8/lista1.php?c=a0tc&f=.m3u8
 
 #EXTINF:-1 ,DW DOCUMENTAL HD
 http://clubtv.link/agos8/agosto8/geomex.php?c=203&f=.m3u8
 
 #EXTINF:-1 ,EL GOURMET HD
-http://clubtv.link/agos8/agosto8/geomex.php?c=74&f=.m3u8
+http://clubtv.link/agos8/agosto8/lista1.php?c=a0r8&f=.m3u8
 
 #EXTINF:-1 ,FOOD NETWORK
 http://clubtv.link/agos8/agosto8/geomex.php?c=2145&f=.m3u8
 
 #EXTINF:-1 ,HISTORY CHANNEL 
-http://clubtv.link/agos8/agosto8/lista2.php?c=16
+http://clubtv.link/agos8/agosto8/lista1.php?c=a0px&f=.m3u8
 
 #EXTINF:-1 ,H2
-http://clubtv.link/agos8/agosto8/lista3.php?c=61&f=.m3u8
+http://clubtv.link/agos8/agosto8/lista1.php?c=a0r7&f=.m3u8
 
 #EXTINF:-1 ,DISCOVERY INVESTIGATION 
-http://clubtv.link/agos8/agosto8/listaz.php?c=92&f=.m3u8
+http://clubtv.link/agos8/agosto8/lista1.php?c=a0tf&f=.m3u8
 
 #EXTINF:-1 ,NAT GEO HD
-http://clubtv.link/agos8/agosto8/geomex.php?c=91&f=.m3u8
+http://clubtv.link/agos8/agosto8/lista1.php?c=a0t8&f=.m3u8
 
 
 
