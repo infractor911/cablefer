@@ -18,6 +18,12 @@ http://clubtv.link/26ago/token28082/geomex.php?c=221&f=.m3u8
 #EXTINF:-1 , CNN ESPAÑOL
 http://clubtv.link/26ago/token28082/lista2.php?c=a0ps&f=.m3u8
 
+#EXTINF:-1 ,N+ NOTICIAS 
+http://clubtv.link/26ago/token28082/vix.php?c=402.frequency.stream/402&f=.m3u8
+
+#EXTINF:-1 ,EXCELSIOR 
+http://clubtv.link/26ago/token28082/geomex2.php?c=1449&f=.m3u8
+
 #EXTINF:-1 ,MILENIO
 http://clubtv.link/26ago/token28082/geomex2.php?c=1250&f=.m3u8
 
@@ -29,6 +35,9 @@ http://clubtv.link/26ago/token28082/geomex2.php?c=2606&f=.m3u8
 
 #EXTINF:-1 ,FORO TV
 http://clubtv.link/26ago/token28082/geomex2.php?c=4&f=.m3u8
+
+#EXTINF:-1 ,THE WEATHER CHANNEL 
+http://clubtv.link/26ago/token28082/vix.php?c=453.frequency.stream/453&f=.m3u8
 
 #EXTINF:-1 ,ANTENA 3
 http://clubtv.link/26ago/token28082/geomex2.php?c=199&f=.m3u8
@@ -64,7 +73,7 @@ http://clubtv.link/26ago/token28082/geomex2.php?c=158&f=.m3u8
 http://clubtv.link/26ago/token28082/geomex2.php?c=201&f=.m3u8
 
 #EXTINF:-1 ,FX HD
-http://clubtv.link/26ago/token28082/geomex2.php?c=209&f=.m3u8
+http://clubtv.link/26ago/token28082/geomex2.php?c=60&f=.m3u8
 
 #EXTINF:-1 ,PARAMOUNT HD
 http://clubtv.link/26ago/token28082/lista1.php?c=a0t9&f=.m3u8
@@ -165,7 +174,8 @@ http://clubtv.link/26ago/token28082/geomex2.php?c=68&f=.m3u8
 #EXTINF:-1 ,NAT GEO HD
 http://clubtv.link/26ago/token28082/geomex2.php?c=91&f=.m3u8
 
-
+#EXTINF:-1 ,TVE
+http://clubtv.link/26ago/token28082/geomex2.php?c=198&f=.m3u8
 
 
 
