@@ -81,9 +81,6 @@ http://clubtv.link/14sep/token1409/lista1.php?c=a0t9&f=.m3u8
 #EXTINF:-1 ,SONY HD
 http://clubtv.link/14sep/token1409/geomex2.php?c=48&f=.m3u8
 
-#EXTINF:-1 ,FXM
-http://clubtv.link/14sep/token1409/geomex2.php?c=138&f=.m3u8
-
 #EXTINF:-1 ,UNIVERSAL CINEMA
 http://clubtv.link/14sep/token1409/lista1.php?c=a0v2&f=.m3u8
 
@@ -112,7 +109,7 @@ http://clubtv.link/14sep/token1409/lista1.php?c=a0cv&f=.m3u8
 http://clubtv.link/14sep/token1409/lista1.php?c=a0or&f=.m3u8
 
 #EXTINF:-1 ,HBO2 HD
-http://clubtv.link/14sep/token1409/lista1.php?c=a0os&f=.m3u8
+http://clubtv.link/14sep/token1409/lista2.php?c=a0os&f=.m3u8
 
 #EXTINF:-1 ,HBO FAMILY HD
 http://clubtv.link/14sep/token1409/lista1.php?c=a0ou&f=.m3u8
