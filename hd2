@@ -189,5 +189,20 @@ http://clubtv.link/feb03/top3873/geomex3.php?c=377&f=.m3u8
 #EXTINF:-1 ,TVE
 http://clubtv.link/feb03/top3873/geomex3.php?c=651&f=.m3u8
 
+#EXTINF:-1 ,película "MEGAN" terror 
+http://clubtv.link/feb03/top3873/movies.php?c=megan
 
+#EXTINF:-1 ,Película "El gato con botas 2" animada 
+http://clubtv.link/feb03/top3873/movies.php?c=gato
 
+#EXTINF:-1 ,Película "pantera negra 2" ciencia ficción 
+http://clubtv.link/feb03/top3873/movies.php?c=bpwf
+
+#EXTINF:-1 ,Película "Black Adam" ciencia ficción 
+http://clubtv.link/feb03/top3873/movies.php?c=blackadam
+
+#EXTINF:-1 ,Película "Vértigo" suspenso 
+http://clubtv.link/feb03/top3873/movies.php?c=vertigo
+
+#EXTINF:-1 ,Película "nop" terror
+http://clubtv.link/feb03/top3873/movies.php?c=nop
