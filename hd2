@@ -147,6 +147,18 @@ http://clubtv.link/feb03/top3873/lista3.php?c=422
 #EXTINF:-1 ,HBO ZONE
 http://clubtv.link/feb03/top3873/lista3.php?c=293
 
+#EXTINF:-1 ,CINEMA CIENCIA FICCIÓN 
+http://clubtv.link/feb03/top3873/lista3.php?c=3023
+
+#EXTINF:-1 ,CINEMA ESTUDIO 
+http://clubtv.link/feb03/top3873/lista3.php?c=3019
+
+#EXTINF:-1 ,CINEMA HORROR 
+http://clubtv.link/feb03/top3873/lista3.php?c=3025
+
+#EXTINF:-1 ,CINEMA DISNEY 
+http://clubtv.link/feb03/top3873/lista3.php?c=3027
+
 #EXTINF:-1 ,WARNER HD
 http://clubtv.link/feb03/top3873/geomex3.php?c=205&f=.m3u8
 
