@@ -118,28 +118,34 @@ http://clubtv.link/feb03/top3873/geomex3.php?c=484&f=.m3u8
 http://clubtv.link/feb03/top3873/geomex4.php?c=140&f=.m3u8
 
 #EXTINF:-1 ,HBO POP
-http://clubtv.link/feb03/top3873/lista1.php?c=a05q
+http://clubtv.link/feb03/top3873/lista3.php?c=129
 
 #EXTINF:-1 ,HBO HD
-http://clubtv.link/feb03/top3873/lista3.php?c=a015
+http://clubtv.link/feb03/top3873/lista3.php?c=118
 
 #EXTINF:-1 ,HBO2 HD
-http://clubtv.link/feb03/top3873/lista3.php?c=a016
+http://clubtv.link/feb03/top3873/lista3.php?c=119
 
 #EXTINF:-1 ,HBO FAMILY HD
-http://clubtv.link/feb03/top3873/lista3.php?c=a018
+http://clubtv.link/feb03/top3873/lista3.php?c=120
 
 #EXTINF:-1 ,HBO XTREME
-http://clubtv.link/feb03/top3873/lista3.php?c=a019
+http://clubtv.link/feb03/top3873/lista3.php?c=128
 
 #EXTINF:-1 ,HBO PLUS
-http://clubtv.link/feb03/top3873/lista3.php?c=a017
+http://clubtv.link/feb03/top3873/lista3.php?c=121
 
 #EXTINF:-1 ,HBO MUNDI
-http://clubtv.link/feb03/top3873/lista2.php?c=33228
+http://clubtv.link/feb03/top3873/lista3.php?c=1112
 
 #EXTINF:-1 ,HBO SIGNATURE HD
-http://clubtv.link/feb03/top3873/lista2.php?c=33230
+http://clubtv.link/feb03/top3873/lista3.php?c=755
+
+#EXTINF:-1 ,HBO COMEDY 
+http://clubtv.link/feb03/top3873/lista3.php?c=422
+
+#EXTINF:-1 ,HBO ZONE
+http://clubtv.link/feb03/top3873/lista3.php?c=293
 
 #EXTINF:-1 ,WARNER HD
 http://clubtv.link/feb03/top3873/geomex3.php?c=205&f=.m3u8
