@@ -24,8 +24,11 @@ http://clubtv.link/feb03/key3322/plutotv.php?c=5cf96cc422df39f1a338d165/master.m
 #EXTINF:-1 ,Banda max
 http://clubtv.link/feb03/key3322/geomex3.php?c=732&f=.m3u8
 
+#EXTINF:-1 ,TELEFORMULA
+http://clubtv.link/feb03/key3322/lista3.php?c=152
+
 #EXTINF:-1 , CNN ESPAÑOL
-http://clubtv.link/feb03/key3322/lista3.php?c=a04c
+http://clubtv.link/feb03/key3322/lista3.php?c=67
 
 #EXTINF:-1 ,N+ NOTICIAS 
 http://clubtv.link/feb03/key3322/vix.php?c=402.frequency.stream/402&f=.m3u8
@@ -97,10 +100,10 @@ http://clubtv.link/feb03/key3322/geomex3.php?c=203&f=.m3u8
 http://clubtv.link/feb03/key3322/lista3.php?c=a04w
 
 #EXTINF:-1 ,UNIVERSAL CINEMA
-http://clubtv.link/feb03/key3322/geomex3.php?c=207&f=.m3u8
+http://clubtv.link/feb03/key3322/lista3.php?c=99
 
 #EXTINF:-1 ,UNIVERSAL PREMIER
-http://clubtv.link/feb03/key3322/lista2.php?c=103&f=.m3u8
+http://clubtv.link/feb03/key3322/lista3.php?c=103
 
 #EXTINF:-1 ,SPACE HD
 http://clubtv.link/feb03/key3322/geomex3.php?c=445&f=.m3u8
@@ -114,8 +117,8 @@ http://clubtv.link/feb03/key3322/geomex3.php?c=123&f=.m3u8
 #EXTINF:-1 ,GOLDEN EDGE
 http://clubtv.link/feb03/key3322/geomex3.php?c=484&f=.m3u8
 
-#EXTINF:-1 ,MORBIDO
-http://clubtv.link/feb03/key3322/geomex4.php?c=140&f=.m3u8
+#EXTINF:-1 ,TOP CINE 
+http://clubtv.link/feb03/key3322/lista3.php?c=2979
 
 #EXTINF:-1 ,HBO POP
 http://clubtv.link/feb03/key3322/lista3.php?c=129
@@ -146,6 +149,9 @@ http://clubtv.link/feb03/key3322/lista3.php?c=422
 
 #EXTINF:-1 ,HBO ZONE
 http://clubtv.link/feb03/key3322/lista3.php?c=293
+
+#EXTINF:-1 ,STAR ENCORE
+http://clubtv.link/feb03/key3322/lista3.php?c=146
 
 #EXTINF:-1 ,CINEMA CIENCIA FICCIÓN 
 http://clubtv.link/feb03/key3322/lista3.php?c=3023
