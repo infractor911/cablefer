@@ -174,6 +174,9 @@ http://clubtv.link/2320mar/key7744/lista3.php?c=a04o
 #EXTINF:-1 ,DISCOVERY CHANNEL
 http://clubtv.link/2320mar/key7744/geomex3.php?c=371&f=.m3u8
 
+#EXTINF:-1 ,DISCOVERY 2
+http://clubtv.link/2320mar/key7744/lista.php?c=5387-919953
+
 #EXTINF:-1 ,DISCOVERY H&H 
 http://clubtv.link/2320mar/key7744/geomex3.php?c=374&f=.m3u8
 
