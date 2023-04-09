@@ -19,19 +19,16 @@ http://clubtv.link/mar0523/top6650/geomex3.php?c=105&f=.m3u8
 http://clubtv.link/mar0523/top6650/geomex3.php?c=102&f=.m3u8
 
 #EXTINF:-1 ,Telenovelas
-http://clubtv.link/mar0523/top6650/plutotv.php?c=5cf96cc422df39f1a338d165/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7df7a3-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a164a5e2-21e7-49e8-a7e9-bbc4785c7386&userId=&serverSideAds=true
+http://regioplay.xyz/php/SR_REGIO_604023_/vix.php?c=448&pid=448&token=SrRegio&f=.m3u8
 
 #EXTINF:-1 ,Banda max
 http://clubtv.link/mar0523/top6650/geomex3.php?c=732&f=.m3u8
 
 #EXTINF:-1 ,TELEFORMULA
-http://clubtv.link/mar0523/top6650/lista3.php?c=152
+https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=161&f=.m3u8
 
 #EXTINF:-1 , CNN ESPAÑOL
-http://clubtv.link/mar0523/top6650/lista.php?c=67
-
-#EXTINF:-1 ,N+ NOTICIAS 
-http://clubtv.link/mar0523/top6650/vix.php?c=402.frequency.stream/402&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=187&f=.m3u8
 
 #EXTINF:-1 ,EXCELSIOR 
 http://clubtv.link/mar0523/top6650/geomex3.php?c=1449&f=.m3u8
@@ -58,7 +55,7 @@ http://clubtv.link/mar0523/top6650/geomex3.php?c=199&f=.m3u8
 http://clubtv.link/mar0523/top6650/geomex3.php?c=111&f=.m3u8
 
 #EXTINF:-1 ,Comedy Central
-http://clubtv.link/mar0523/top6650/lista3.php?c=a04p
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ffcc21a432945000762d06b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 ,MTV
 http://clubtv.link/mar0523/top6650/plutotv.php?c=5de91b7ea86ee60009d89e75/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1ae22-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=660d0b2a-7fb6-45ce-9752-4b5be4f0e398&userId=&serverSideAds=true
@@ -121,25 +118,25 @@ http://clubtv.link/mar0523/top6650/geomex3.php?c=484&f=.m3u8
 http://clubtv.link/mar0523/top6650/distro.php?c=top-cine-latam&f=.m3u8
 
 #EXTINF:-1 ,HBO POP
-http://clubtv.link/mar0523/top6650/lista.php?c=129
+https://regioplay.xyz/php/SR_REGIO_604023_/nuevotv.php?key=SrRegio&c=217
 
 #EXTINF:-1 ,HBO HD
-http://clubtv.link/mar0523/top6650/lista.php?c=118
+https://regioplay.xyz/php/SR_REGIO_604023_/nuevotv.php?key=SrRegio&c=212
 
 #EXTINF:-1 ,HBO2 HD
-http://clubtv.link/mar0523/top6650/lista1.php?c=a02o
+https://regioplay.xyz/php/SR_REGIO_604023_/nuevotv.php?key=SrRegio&c=213
 
 #EXTINF:-1 ,HBO FAMILY HD
-http://clubtv.link/mar0523/top6650/lista1.php?c=a02r
+https://regioplay.xyz/php/SR_REGIO_604023_/nuevotv.php?key=SrRegio&c=215
 
 #EXTINF:-1 ,HBO XTREME
-http://clubtv.link/mar0523/top6650/lista.php?c=128
+https://regioplay.xyz/php/SR_REGIO_604023_/nuevotv1.php?c=35&key=SrRegio&f=.m3u8
 
 #EXTINF:-1 ,HBO PLUS
 http://clubtv.link/mar0523/top6650/lista.php?c=121
 
 #EXTINF:-1 ,HBO MUNDI
-http://clubtv.link/mar0523/top6650/lista.php?c=1112
+https://regioplay.xyz/php/SR_REGIO_604023_/nuevotv1.php?c=149&key=SrRegio&f=.m3u8
 
 #EXTINF:-1 ,HBO SIGNATURE HD
 http://clubtv.link/mar0523/top6650/lista.php?c=755
@@ -167,6 +164,9 @@ http://clubtv.link/mar0523/top6650/geomex3.php?c=351&f=.m3u8
 
 #EXTINF:-1 ,DISCOVERY WORLD 
 http://clubtv.link/mar0523/top6650/geomex3.php?c=356&f=.m3u8
+
+#EXTINF:-1 ,SABER MAS
+https://regioplay.xyz/php/SR_REGIO_604023_/distroregio.php?token=SrRegio&c=saber-mas&f=.m3u8
 
 #EXTINF:-1 ,CURIOSITY XTREAM
 http://clubtv.link/mar0523/top6650/geomex3.php?c=2594&f=.m3u8
