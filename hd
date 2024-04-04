@@ -12,35 +12,17 @@ https://clubtv.link/a1509/key4513/lista1.php?c=2
 #EXTINF:-1 ,CANAL 2
 http://clubtv.link/AB0104/key4513/geomex.php?c=27976&token=TECNOTVGENERADOR&f=.m3u8
 
-#EXTINF:-1 ,Banda max
-https://clubtv.link/a1509/key4513/lista1.php?c=90
-
-#EXTINF:-1 ,TELEFORMULA
-http://00322.xyz:8000/rances123/9IFBBCRBIX/130031
-
 #EXTINF:-1 , CNN ESPAÑOL
 http://clubtv.link/AB0104/key4513/geomex.php?c=27981&token=TECNOTVGENERADOR&f=.m3u8
 
-#EXTINF:-1 ,EXCELSIOR 
-http://00322.xyz:8000/rances123/9IFBBCRBIX/153574
-
-#EXTINF:-1 ,MILENIO
-http://00322.xyz:8000/rances123/9IFBBCRBIX/141384
-
 #EXTINF:-1 ,ADN40 
 http://clubtv.link/AB0104/key4513/geomex.php?c=28050&token=TECNOTVGENERADOR&f=.m3u8
-
-#EXTINF:-1 ,IMAGEN TV
-https://clubtv.link/a1509/key4513/lista1.php?c=65
 
 #EXTINF:-1 ,FORO TV
 http://clubtv.link/AB0104/key4513/geomex.php?c=28002&token=TECNOTVGENERADOR&f=.m3u8
 
 #EXTINF:-1 ,THE WEATHER CHANNEL 
 http://clubtv.link/AB0104/key4513/vix.php?c=431.frequency.stream/dist/vix/431
-
-#EXTINF:-1 ,ANTENA 3
-http://00322.xyz:8000/rances123/9IFBBCRBIX/126214
 
 #EXTINF:-1 ,CANAL ONCE
 https://live2.canaloncelive.tv/oncemx/smil:oncemx.smil/playlist.m3u8?TecnoPlaylist
@@ -50,9 +32,6 @@ http://clubtv.link/AB0104/key4513/geomex.php?c=27982&token=TECNOTVGENERADOR&f=.m
 
 #EXTINF:-1 ,MTV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de91b7ea86ee60009d89e75/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 ,TELEHIT
-http://00322.xyz:8000/rances123/9IFBBCRBIX/2086
 
 #EXTINF:-1 ,A&E HD
 http://clubtv.link/AB0104/key4513/geomex.php?c=27969&token=TECNOTVGENERADOR&f=.m3u8
@@ -67,7 +46,7 @@ http://clubtv.link/AB0104/key4513/lista.php?c=a05l&token=TecntvGeneradorTV&f=.m3
 http://clubtv.link/AB0104/key4513/lista.php?c=a05f&token=TecntvGeneradorTV&f=.m3u8
 
 #EXTINF:-1 ,CINEMAX HD
-http://clubtv.link/AB0104/key4513/lista.php?c=a06q&token=TecntvGeneradorTV&f=.m3u8
+http://clubtv.link/AB0104/key4513/lista3.php?c=143&token=TecntvGeneradorTV&f=.m3u8
 
 #EXTINF:-1 ,FX HD
 http://clubtv.link/AB0104/key4513/lista.php?c=a035&token=TecntvGeneradorTV&f=.m3u8
@@ -140,9 +119,6 @@ http://00322.xyz:8000/rances123/9IFBBCRBIX/146597
 
 #EXTINF:-1 ,DW DOCUMENTAL HD
 https://clubtv.link/a1509/key4513/lista1.php?c=170
-
-#EXTINF:-1 ,BIT ME
-https://clubtv.link/a1509/key4513/lista1.php?c=131
 
 #EXTINF:-1 ,FOOD NETWORK
 http://clubtv.link/AB0104/key4513/geomex.php?c=28062&token=TECNOTVGENERADOR&f=.m3u8
