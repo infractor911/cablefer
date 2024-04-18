@@ -10,16 +10,16 @@ https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 https://clubtv.link/a1509/key4513/lista1.php?c=2
 
 #EXTINF:-1 ,CANAL 2
-http://clubtv.link/AB1404/key4513/geomex.php?c=27976&token=tecnotvGeneradorTV&f=.m3u8
+http://clubtv.link/AB1404/key4513/geomex.php?c=27976&token=TecnotvGeneradorP&f=.m3u8
 
 #EXTINF:-1 , CNN ESPAÑOL
-http://clubtv.link/AB1404/key4513/geomex.php?c=27981&token=tecnotvGeneradorTV&f=.m3u8
+http://clubtv.link/AB1404/key4513/geomex.php?c=27981&token=TecnotvGeneradorP&f=.m3u8
 
 #EXTINF:-1 ,ADN40 
-http://clubtv.link/AB1404/key4513/geomex.php?c=28050&token=tecnotvGeneradorTV&f=.m3u8
+http://clubtv.link/AB1404/key4513/geomex.php?c=28050&token=TecnotvGeneradorP&f=.m3u8
 
 #EXTINF:-1 ,FORO TV
-http://clubtv.link/AB1404/key4513/geomex.php?c=28002&token=tecnotvGeneradorTV&f=.m3u8
+http://clubtv.link/AB1404/key4513/geomex.php?c=28002&token=TecnotvGeneradorP&f=.m3u8
 
 #EXTINF:-1 ,THE WEATHER CHANNEL 
 http://clubtv.link/AB1404/key4513/vix.php?c=431.frequency.stream/dist/vix/431
@@ -28,7 +28,7 @@ http://clubtv.link/AB1404/key4513/vix.php?c=431.frequency.stream/dist/vix/431
 http://clubtv.link/AB1404/key4513/lista10.php?c=a03v&token=tecnotvGeneradorTV&f=.m3u8
 
 #EXTINF:-1 ,Comedy Central
-http://clubtv.link/AB1404/key4513/geomex.php?c=27982&token=tecnotvGeneradorTV&f=.m3u8
+http://clubtv.link/AB1404/key4513/geomex.php?c=27982&token=TecnotvGeneradorP&f=.m3u8
 
 #EXTINF:-1 ,MTV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de91b7ea86ee60009d89e75/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -40,7 +40,7 @@ http://clubtv.link/AB1404/key4513/lista10.php?c=a02j&token=tecnotvGeneradorTV&f=
 http://clubtv.link/AB1404/key4513/lista10.php?c=a03e&token=tecnotvGeneradorTV&f=.m3u8
 
 #EXTINF:-1 ,A&E HD
-http://clubtv.link/AB1404/key4513/geomex.php?c=27969&token=tecnotvGeneradorTV&f=.m3u8
+http://clubtv.link/AB1404/key4513/geomex.phphp?c=27969&token=TecnotvGeneradorP&f=.m3u8
 
 #EXTINF:-1 ,AMC HD
 http://clubtv.link/AB1404/key4513/lista.php?c=a033&token=tecnotvGeneradorTV&f=.m3u8
@@ -58,7 +58,7 @@ http://clubtv.link/AB1404/key4513/lista9.php?c=a016&token=tecnotvGeneradorTV&f=.
 http://clubtv.link/AB1404/key4513/lista9.php?c=a01o&token=tecnotvGeneradorTV&f=.m3u8
 
 #EXTINF:-1 ,PARAMOUNT HD
-http://clubtv.link/AB1404/key4513/geomex.php?c=28030&token=tecnotvGeneradorTV&f=.m3u8
+http://clubtv.link/AB1404/key4513/geomex.php?c=28030&token=TecnotvGeneradorP&f=.m3u8
 
 #EXTINF:-1 ,Star channel
 http://clubtv.link/AB1404/key4513/lista.php?c=a05c&token=tecnotvGeneradorTV&f=.m3u8
@@ -121,16 +121,16 @@ http://clubtv.link/AB1404/key4513/lista.php?c=a077&token=tecnotvGeneradorTV&f=.m
 http://clubtv.link/AB1404/key4513/lista8.php?c=a032&token=tecnotvGeneradorTV&f=.m3u8
 
 #EXTINF:-1 ,DISCOVERY H&H 
-http://clubtv.link/AB1404/key4513/geomex.php?c=27986&token=tecnotvGeneradorTV&f=.m3u8
+http://clubtv.link/AB1404/key4513/geomex.php?c=27986&token=TecnotvGeneradorP&f=.m3u8
 
 #EXTINF:-1 ,DISCOVERY SCIENCE HD
 http://clubtv.link/AB1404/key4513/lista.php?c=a00v&token=tecnotvGeneradorTV&f=.m3u8
 
 #EXTINF:-1 ,DISCOVERY THEATER HD
-http://clubtv.link/AB1404/key4513/geomex.php?c=27989&token=tecnotvGeneradorTV&f=.m3u8
+http://clubtv.link/AB1404/key4513/geomex.php?c=27989&token=TecnotvGeneradorP&f=.m3u8
 
 #EXTINF:-1 ,DISCOVERY WORLD 
-http://clubtv.link/AB1404/key4513/geomex.php?c=27991&token=tecnotvGeneradorTV&f=.m3u8
+http://clubtv.link/AB1404/key4513/geomex.php?c=27991&token=TecnotvGeneradorP&f=.m3u8
 
 #EXTINF:-1 ,CURIOSITY XTREAM
 http://00322.xyz:8000/rances123/9IFBBCRBIX/146597
@@ -139,16 +139,16 @@ http://00322.xyz:8000/rances123/9IFBBCRBIX/146597
 https://clubtv.link/a1509/key4513/lista1.php?c=170
 
 #EXTINF:-1 ,FOOD NETWORK
-http://clubtv.link/AB1404/key4513/geomex.php?c=28062&token=tecnotvGeneradorTV&f=.m3u8
+http://clubtv.link/AB1404/key4513/geomex.php?c=28062&token=TecnotvGeneradorP&f=.m3u8
 
 #EXTINF:-1 ,HISTORY CHANNEL 
-http://clubtv.link/AB1404/key4513/geomex.php?c=28022&token=tecnotvGeneradorTV&f=.m3u8
+http://clubtv.link/AB1404/key4513/geomex.php?c=28022&token=TecnotvGeneradorP&f=.m3u8
 
 #EXTINF:-1 ,H2
 http://clubtv.link/AB1404/key4513/lista.php?c=a042&token=tecnotvGeneradorTV&f=.m3u8
 
 #EXTINF:-1 ,NAT GEO HD
-http://clubtv.link/AB1404/key4513/geomex.php?c=28026&token=tecnotvGeneradorTV&f=.m3u8
+http://clubtv.link/AB1404/key4513/geomex.php?c=28026&token=TecnotvGeneradorP&f=.m3u8
 
 #EXTINF:-1 ,SIMPSON
 http://clubtv.link/AB1404/key4513/24.php?c=simpson_maniahd189
