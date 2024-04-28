@@ -61,7 +61,7 @@ http://clubtv.link/A2804/key4513/lista9.php?c=a01o&token=tecnotvGeneradorTV&f=.m
 http://clubtv.link/A2804/key4513/geomex.php?c=a04n&token=TecnotvGeneradorP&f=.m3u8
 
 #EXTINF:-1 ,Star channel
-http://clubtv.link/A2804/key4513/lista.php?c=a05c&token=tecnotvGeneradorTV&f=.m3u8
+http://clubtv.link/A2804/key4513/lista.php?c=a022&token=tecnotvGeneradorTV&f=.m3u8
 
 #EXTINF:-1 ,Star channel 2
 http://clubtv.link/A2804/key4513/lista9.php?c=a00q&token=tecnotvGeneradorTV&f=.m3u8
@@ -73,16 +73,16 @@ http://clubtv.link/A2804/key4513/lista9.php?c=a02v&token=tecnotvGeneradorTV&f=.m
 http://clubtv.link/A2804/key4513/lista10.php?c=a00i&token=tecnotvGeneradorTV&f=.m3u8
 
 #EXTINF:-1 ,SONY MOVIES
-http://clubtv.link/A2804/key4513/lista8.php?c=a02l&token=tecnotvGeneradorTV&f=.m3u8
+http://clubtv.link/A2804/key4513/lista.php?c=a06i&token=tecnotvGeneradorTV&f=.m3u8
 
 #EXTINF:-1 ,UNIVERSAL STUDIO 
 http://clubtv.link/A2804/key4513/lista8.php?c=a02b&token=tecnotvGeneradorTV&f=.m3u8
 
-#EXTINF:-1 ,star acción
-http://clubtv.link/A2804/key4513/lista.php?c=a07c&token=tecnotvGeneradorTV&f=.m3u8
+#EXTINF:-1 ,ANIME 
+http://clubtv.link/A2804/key4513/plutotv.php?c=5e6a4d875d7ccf0007cc2cf1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1fc43-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0102247d-6255-454b-b42a-4ed18335dc86&userId=&serverSideAds=true
 
-#EXTINF:-1 ,UNIVERSAL PREMIER
-http://clubtv.link/A2804/key4513/lista.php?c=a05s&token=tecnotvGeneradorTV&f=.m3u8
+#EXTINF:-1 ,UNIVERSAL CINEMA
+http://clubtv.link/A2804/key4513/lista1.php?c=a07c&token=tecnotvGeneradorTV&f=.m3u8
 
 #EXTINF:-1 ,SPACE HD
 http://clubtv.link/A2804/key4513/lista2.php?c=a06x&f=.m3u8&token=tecnotvGeneradorTV
