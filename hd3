@@ -1,196 +1,100 @@
 #EXTM3U
 
-#EXTINF:-1 ,Azteca 7
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9026
+#EXTINF:-1 ,Star channel
+http://tv.teleclub.xyz/envivo/Entretenimiento/STAR_CHANNEL/index.m3u8
 
-#EXTINF:-1 ,Azteca uno
-https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+#EXTINF:-1 ,Universal Tv
+http://tv.teleclub.xyz/envivo/Entretenimiento/UNIVERSAL_TV/index.m3u8
 
-#EXTINF:-1 ,AZTECA UNO
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9025
+#EXTINF:-1 ,Paramount
+http://tv.teleclub.xyz/envivo/Entretenimiento/PARAMOUNT/index.m3u8
 
-#EXTINF:-1 ,Canal 5
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9024
+#EXTINF:-1 ,Studio Universal
+http://tv.teleclub.xyz/envivo/Entretenimiento/STUDIO_UNIVERSAL/index.m3u8
 
-#EXTINF:-1 ,CANAL 2
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/3005
+#EXTINF:-1 ,Fx
+http://tv.teleclub.xyz/envivo/Entretenimiento/FX/index.m3u8
 
-#EXTINF:-1 ,Telenovelas
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9141
+#EXTINF:-1 ,TNT
+http://tv.teleclub.xyz/envivo/Entretenimiento/TNT/index.m3u8
 
-#EXTINF:-1 ,Banda max
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9122
+#EXTINF:-1 ,Cinemax
+http://tv.teleclub.xyz/envivo/Entretenimiento/CINEMAX/index.m3u8
 
-#EXTINF:-1 ,TELEFORMULA
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/31746
+#EXTINF:-1 ,Sony
+http://tv.teleclub.xyz/envivo/Entretenimiento/SONY/index.m3u8
 
-#EXTINF:-1 , CNN ESPAÑOL
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/31762
+#EXTINF:-1 , Cinecanal
+http://tv.teleclub.xyz/envivo/Entretenimiento/CINECANAL/index.m3u8
 
-#EXTINF:-1 ,EXCELSIOR 
-http://clubtv.link/m1405/key5563/geomex3.php?c=1449&f=.m3u8
+#EXTINF:-1 ,HBO
+http://tv.teleclub.xyz/envivo/Entretenimiento/HBO/index.m3u8
 
-#EXTINF:-1 ,MILENIO
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/302702
+#EXTINF:-1 ,HBO 2
+http://tv.teleclub.xyz/envivo/Entretenimiento/HBO_2/index.m3u8
 
-#EXTINF:-1 ,ADN40 
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/5799
-
-#EXTINF:-1 ,IMAGEN TV
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9039
-
-#EXTINF:-1 ,FORO TV
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/302620
-
-#EXTINF:-1 ,THE WEATHER CHANNEL 
-http://clubtv.link/m1405/key5563/vix.php?c=453.frequency.stream/453&f=.m3u8
-
-#EXTINF:-1 ,ANTENA 3
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/1173
-
-#EXTINF:-1 ,CANAL ONCE
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/7051
-
-#EXTINF:-1 ,Comedy Central
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9106
-
-#EXTINF:-1 ,MTV
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/299313
-
-#EXTINF:-1 ,TELEHIT
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298067
-
-#EXTINF:-1 ,A&E HD
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9117
-
-#EXTINF:-1 ,AMC HD
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9083
-
-#EXTINF:-1 ,TNT HD
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/3089
-
-#EXTINF:-1 ,CINECANAL HD
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9128
-
-#EXTINF:-1 ,CINEMAX HD
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9080
-
-#EXTINF:-1 ,DE PELICULA 
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298053
-
-#EXTINF:-1 ,FX HD
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9105
-
-#EXTINF:-1 ,PARAMOUNT HD
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/3077
-
-#EXTINF:-1 ,ZTARZ
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/5785
-
-#EXTINF:-1 ,SONY HD
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9115
-
-#EXTINF:-1 ,UNIVERSAL CINEMA 
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/291225
-
-#EXTINF:-1 ,TERROR 
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298646
-
-#EXTINF:-1 ,UNIVERSAL PREMIER
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298831
-
-#EXTINF:-1 ,SPACE HD
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9136
-
-#EXTINF:-1 ,GOLDEN+
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/3051
-
-#EXTINF:-1 ,GOLDEN
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/5793
-
-#EXTINF:-1 ,GOLDEN EDGE
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9076
-
-#EXTINF:-1 ,CINEMA DISNEY
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/50578
-
-#EXTINF:-1 ,HBO POP
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/3069
-
-#EXTINF:-1 ,HBO HD
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/3055
-
-#EXTINF:-1 ,HBO2 HD
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/3056
-
-#EXTINF:-1 ,HBO FAMILY HD
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/3057
-
-#EXTINF:-1 ,HBO XTREME
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/148927
-
-#EXTINF:-1 ,HBO PLUS
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/3058
+#EXTINF:-1 ,HBO Plus
+http://tv.teleclub.xyz/envivo/Entretenimiento/HBO_PLUS/index.m3u8
 
 #EXTINF:-1 ,HBO MUNDI
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/226015
+http://tv.teleclub.xyz/envivo/Entretenimiento/HBO_MUNDI/index.m3u8
 
-#EXTINF:-1 ,HBO SIGNATURE 
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/3059
+#EXTINF:-1 ,HBO POP
+http://tv.teleclub.xyz/envivo/Entretenimiento/HBO_POP/index.m3u8
 
-#EXTINF:-1 ,CINEMA HORROR 
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/50583
+#EXTINF:-1 ,HBO SIGNATURE
+http://tv.teleclub.xyz/envivo/Entretenimiento/HBO_SIGNATURE/index.m3u8
 
-#EXTINF:-1 ,CINEMA UNIVERSAL
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/291225
+#EXTINF:-1 ,HBO FAMILY
+http://tv.teleclub.xyz/envivo/Entretenimiento/HBO_XTREME/index.m3u8
 
-#EXTINF:-1 ,WARNER HD
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9142
+#EXTINF:-1 ,AMC
+http://tv.teleclub.xyz/envivo/Entretenimiento/AMC/index.m3u8
 
-#EXTINF:-1 ,DISCOVERY CHANNEL
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/281050
+#EXTINF:-1 ,SPACE
+http://tv.teleclub.xyz/envivo/Entretenimiento/SPACE/index.m3u8
 
-#EXTINF:-1 ,DISCOVERY CHANNEL 2
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/280388
-
-#EXTINF:-1 ,DISCOVERY H&H 
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9110
-
-#EXTINF:-1 ,DISCOVERY SCIENCE HD
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9059
-
-#EXTINF:-1 ,DISCOVERY THEATER HD
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9151
-
-#EXTINF:-1 ,DISCOVERY WORLD 
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9061
-
-#EXTINF:-1 ,DISCOVERY SIVILIZACION 
-http://clubtv.link/m1405/key5563/lista.php?c=27985
-
-#EXTINF:-1 ,CURIOSITY XTREAM
-http://clubtv.link/m1405/key5563/geomex3.php?c=2594&f=.m3u8
-
-#EXTINF:-1 ,DW DOCUMENTAL HD
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9149
-
-#EXTINF:-1 ,BIT ME
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/47946
+#EXTINF:-1 ,UNIVERSAL PREMIER
+http://tv.teleclub.xyz/envivo/Entretenimiento/UNIVERSAL_PREMIERE/index.m3u8
 
 #EXTINF:-1 ,FOOD NETWORK
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9116
+http://tv.teleclub.xyz/envivo/Cultura/FOOD_NETWORK/index.m3u8
 
-#EXTINF:-1 ,HISTORY CHANNEL 
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9050
+#EXTINF:-1 ,DISCOVERY CHANNEL
+http://tv.teleclub.xyz/envivo/Cultura/DISCOVERY_CHANNEL/index.m3u8
+
+#EXTINF:-1 ,DISCOVERY THEATER
+http://tv.teleclub.xyz/envivo/Cultura/DISCOVERY_THEATER/index.m3u8
+
+#EXTINF:-1 ,DISCOVERY WORLD
+http://tv.teleclub.xyz/envivo/Cultura/DISCOVERY_WORLD/index.m3u8
+
+#EXTINF:-1 ,DISCOVERY SCIENCE
+http://tv.teleclub.xyz/envivo/Cultura/DISCOVERY_SCIENCES/index.m3u8
+
+#EXTINF:-1 ,DISCOVERY H&H
+http://tv.teleclub.xyz/envivo/Cultura/DISCOVERY_HH/index.m3u8
+
+#EXTINF:-1 ,HISTORY CHANNEL
+http://tv.teleclub.xyz/envivo/Cultura/HISTORY/index.m3u8
 
 #EXTINF:-1 ,H2
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/273073
+http://tv.teleclub.xyz/envivo/Cultura/H2/index.m3u8
 
-#EXTINF:-1 ,DISCOVERY INVESTIGATION 
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/27790
+#EXTINF:-1 ,NATIONAL GEOGRAPHIC
+http://tv.teleclub.xyz/envivo/Cultura/NATGEO/index.m3u8
 
-#EXTINF:-1 ,NAT GEO HD
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/8725
+#EXTINF:-1 ,A&E
+http://tv.teleclub.xyz/envivo/Cultura/A_E/index.m3u8
+
+#EXTINF:-1 ,El gourmet 
+http://tv.teleclub.xyz/envivo/Cultura/EL_GOURMET/index.m3u8
+
+#EXTINF:-1 ,DW Documental
+http://tv.teleclub.xyz/envivo/Mundo/DW_Spanish/index.m3u8
+
+#EXTINF:-1 ,futurama
+http://clubtv.link/m1405/key4513/24.php?c=futurama_mania_
 
 #EXTINF:-1 ,SIMPSON HORROR
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/50617
