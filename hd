@@ -34,52 +34,52 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ffcc21a432945000762d0
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de91b7ea86ee60009d89e75/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 ,MTV 00s
-http://clubtv.link/M1805m/key4513/lista6.php?c=a055&token=tecnotvGeneradorTV&f=.m3u8
+http://clubtv.link/M1805m/key4513/lista.php?c=a09c&token=tecnotvGeneradorTV&f=.m3u8
 
 #EXTINF:-1 ,MTV 80s
-http://clubtv.link/M1805m/key4513/lista6.php?c=a01d&token=tecnotvGeneradorTV&f=.m3u8
+http://clubtv.link/M1805m/key4513/lista.php?c=a05v&token=tecnotvGeneradorTV&f=.m3u8
 
 #EXTINF:-1 ,A&E HD
-http://clubtv.link/M1805m/key4513/lista10.php?c=a0hp&token=tecnotvGeneradorTV&f=.m3u8
+http://clubtv.link/M1805m/key4513/lista.php?c=a01s&token=tecnotvGeneradorTV&f=.m3u8
 
 #EXTINF:-1 ,AMC HD
-http://clubtv.link/M1805m/key4513/lista10.php?c=a0lq&token=tecnotvGeneradorTV&f=.m3u8
+http://clubtv.link/M1805m/key4513/lista.php?c=a039&token=tecnotvGeneradorTV&f=.m3u8
 
 #EXTINF:-1 ,TNT HD
-http://clubtv.link/M1805m/key4513/lista10.php?c=a0ij&token=tecnotvGeneradorTV&f=.m3u8
+http://clubtv.link/M1805m/key4513/lista.php?c=a02b&token=tecnotvGeneradorTV&f=.m3u8
 
 #EXTINF:-1 ,CINECANAL HD
-http://clubtv.link/M1805m/key4513/lista10.php?c=a0j2&token=tecnotvGeneradorTV&f=.m3u8
+http://clubtv.link/M1805m/key4513/lista.php?c=a08n&token=tecnotvGeneradorTV&f=.m3u8
 
 #EXTINF:-1 ,CINEMAX HD
-http://clubtv.link/M1805m/key4513/lista10.php?c=a0d3&token=tecnotvGeneradorTV&f=.m3u8
+http://clubtv.link/M1805m/key4513/lista.php?c=a0bn&token=tecnotvGeneradorTV&f=.m3u8
 
 #EXTINF:-1 ,FX HD
-http://clubtv.link/M1805m/key4513/lista10.php?c=a0i8&token=tecnotvGeneradorTV&f=.m3u8
+http://clubtv.link/M1805m/key4513/lista.php?c=a02z&token=tecnotvGeneradorTV&f=.m3u8
 
 #EXTINF:-1 ,PARAMOUNT HD
-http://clubtv.link/M1805m/key4513/lista10.php?c=a0lb&token=tecnotvGeneradorTV&f=.m3u8
+http://clubtv.link/M1805m/key4513/lista.php?c=a03e&token=tecnotvGeneradorTV&f=.m3u8
 
 #EXTINF:-1 ,Star channel
 http://tv.teleclub.xyz/envivo/Entretenimiento/STAR_CHANNEL/index.m3u8
 
 #EXTINF:-1 ,Star channel 2
-http://clubtv.link/M1805m/key4513/lista10.php?c=a0hw&token=tecnotvGeneradorTV&f=.m3u8
+http://clubtv.link/M1805m/key4513/lista.php?c=a022&token=tecnotvGeneradorTV&f=.m3u8
 
 #EXTINF:-1 ,Star channel 3
 http://clubtv.link/M1805m/key4513/lista9.php?c=a02v&token=tecnotvGeneradorTV&f=.m3u8
 
 #EXTINF:-1 ,SONY HD
-http://clubtv.link/M1805m/key4513/lista10.php?c=a0hq&token=tecnotvGeneradorTV&f=.m3u8
+http://clubtv.link/M1805m/key4513/lista.php?c=a01t&token=tecnotvGeneradorTV&f=.m3u8
 
 #EXTINF:-1 ,SONY MOVIES
-http://clubtv.link/M1805m/key4513/lista6.php?c=a04s&token=tecnotvGeneradorTV&f=.m3u8
+http://clubtv.link/M1805m/key4513/lista.php?c=a06i&token=tecnotvGeneradorTV&f=.m3u8
 
 #EXTINF:-1 ,UNIVERSAL PREMIER
-http://clubtv.link/M1805m/key4513/lista6.php?c=a056&token=tecnotvGeneradorTV&f=.m3u8
+http://clubtv.link/M1805m/key4513/lista.php?c=a0aw&token=tecnotvGeneradorTV&f=.m3u8
 
 #EXTINF:-1 ,universal studio 
-http://clubtv.link/M1805m/key4513/lista10.php?c=a0j7&token=tecnotvGeneradorTV&f=.m3u8
+http://clubtv.link/M1805m/key4513/lista.php?c=a03f&token=tecnotvGeneradorTV&f=.m3u8
 
 #EXTINF:-1 ,STUDIO UNIVERSAL
 http://tv.teleclub.xyz/envivo/Entretenimiento/STUDIO_UNIVERSAL/index.m3u8
@@ -88,10 +88,10 @@ http://tv.teleclub.xyz/envivo/Entretenimiento/STUDIO_UNIVERSAL/index.m3u8
 http://clubtv.link/M1805m/key4513/plutotv.php?c=5e6a4d875d7ccf0007cc2cf1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1fc43-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0102247d-6255-454b-b42a-4ed18335dc86&userId=&serverSideAds=true
 
 #EXTINF:-1 ,UNIVERSAL CINEMA
-http://clubtv.link/M1805m/key4513/lista6.php?c=a05o&token=tecnotvGeneradorTV&f=.m3u8
+http://clubtv.link/M1805m/key4513/lista.php?c=a09h&token=tecnotvGeneradorTV&f=.m3u8
 
 #EXTINF:-1 ,SPACE HD
-http://clubtv.link/M1805m/key4513/lista10.php?c=a0ht&token=tecnotvGeneradorTV&f=.m3u8
+http://clubtv.link/M1805m/key4513/lista.php?c=a01w&token=tecnotvGeneradorTV&f=.m3u8
 
 #EXTINF:-1 ,HBO POP
 http://clubtv.link/M1805m/key4513/lista.php?c=a01y&token=tecnotvGeneradorTV&f=.m3u8
@@ -103,16 +103,16 @@ http://tv.teleclub.xyz/envivo/Entretenimiento/HBO_MUNDI/index.m3u8
 http://tv.teleclub.xyz/envivo/Entretenimiento/HBO_SIGNATURE/index.m3u8
 
 #EXTINF:-1 ,HBO HD
-http://clubtv.link/M1805m/key4513/lista10.php?c=a0l6&token=tecnotvGeneradorTV&f=.m3u8
+http://clubtv.link/M1805m/key4513/lista.php?c=a03b&token=tecnotvGeneradorTV&f=.m3u8
 
 #EXTINF:-1 ,HBO2 HD
-http://clubtv.link/M1805m/key4513/lista10.php?c=a0l7&token=tecnotvGeneradorTV&f=.m3u8
+http://clubtv.link/M1805m/key4513/lista.php?c=a0dn&token=tecnotvGeneradorTV&f=.m3u8
 
 #EXTINF:-1 ,HBO FAMILY HD
-http://clubtv.link/M1805m/key4513/lista7.php?c=a034&token=tecnotvGeneradorTV&f=.m3u8
+http://clubtv.link/M1805m/key4513/lista.php?c=a04g&token=tecnotvGeneradorTV&f=.m3u8
 
 #EXTINF:-1 ,HBO XTREME
-http://clubtv.link/M1805m/key4513/lista7.php?c=a035&token=tecnotvGeneradorTV&f=.m3u8
+http://clubtv.link/M1805m/key4513/lista.php?c=a0dc&token=tecnotvGeneradorTV&f=.m3u8
 
 #EXTINF:-1 ,HBO PLUS
 http://clubtv.link/M1805m/key4513/lista10.php?c=a0ex&token=tecnotvGeneradorTV&f=.m3u8
@@ -121,13 +121,13 @@ http://clubtv.link/M1805m/key4513/lista10.php?c=a0ex&token=tecnotvGeneradorTV&f=
 http://tv.teleclub.xyz/envivo/Entretenimiento/WARNER_TV/index.m3u8
 
 #EXTINF:-1 ,WARNER HD
-http://clubtv.link/M1805m/key4513/lista10.php?c=a0hr&token=tecnotvGeneradorTV&f=.m3u8
+http://clubtv.link/M1805m/key4513/lista.php?c=a08l&token=tecnotvGeneradorTV&f=.m3u8
 
 #EXTINF:-1 ,DISCOVERY CHANNEL
 http://tv.teleclub.xyz/envivo/Cultura/DISCOVERY_CHANNEL/index.m3u8
 
 #EXTINF:-1 ,DISCOVERY CHANNEL 2
-http://clubtv.link/M1805m/key4513/lista10.php?c=a0jj&token=tecnotvGeneradorTV&f=.m3u8
+http://clubtv.link/M1805m/key4513/lista.php?c=a0ar&token=tecnotvGeneradorTV&f=.m3u8
 
 #EXTINF:-1 ,DISCOVERY CHANNEL 3
 http://clubtv.link/M1805m/key4513/lista7.php?c=a031&token=tecnotvGeneradorTV&f=.m3u8
@@ -139,10 +139,10 @@ http://clubtv.link/M1805m/key4513/geomex.php?c=a03o&token=TecnotvGeneradorP&f=.m
 http://clubtv.link/M1805m/key4513/lista.php?c=a04q&token=tecnotvGeneradorTV&f=.m3u8
 
 #EXTINF:-1 ,DISCOVERY THEATER HD
-http://clubtv.link/M1805m/key4513/lista10.php?c=a0km&token=tecnotvGeneradorTV&f=.m3u8
+http://clubtv.link/M1805m/key4513/lista.php?c=a02q&token=tecnotvGeneradorTV&f=.m3u8
 
 #EXTINF:-1 ,DISCOVERY WORLD 
-http://clubtv.link/M1805m/key4513/lista10.php?c=a0la&token=tecnotvGeneradorTV&f=.m3u8
+http://clubtv.link/M1805m/key4513/lista.php?c=a037&token=tecnotvGeneradorTV&f=.m3u8
 
 #EXTINF:-1 ,DISCOVERY FAMILIA
 http://tv.teleclub.xyz/envivo/Cultura/DISCOVERY_FAMILIA/index.m3u8
@@ -157,10 +157,10 @@ http://tv.teleclub.xyz/envivo/Mundo/DW_Spanish/index.m3u8
 http://clubtv.link/M1805m/key4513/geomex.php?c=a02n&token=TecnotvGeneradorP&f=.m3u8
 
 #EXTINF:-1 ,HISTORY CHANNEL 
-http://clubtv.link/M1805m/key4513/lista10.php?c=a0ho&token=tecnotvGeneradorTV&f=.m3u8
+http://clubtv.link/M1805m/key4513/lista.php?c=a01r&token=tecnotvGeneradorTV&f=.m3u8
 
 #EXTINF:-1 ,H2
-http://clubtv.link/M1805m/key4513/lista10.php?c=a0jk&token=tecnotvGeneradorTV&f=.m3u8
+http://clubtv.link/M1805m/key4513/lista.php?c=a04f&token=tecnotvGeneradorTV&f=.m3u8
 
 #EXTINF:-1 ,NAT GEO HD
 http://clubtv.link/M1805m/key4513/geomex.php?c=a04d&token=TecnotvGeneradorP&f=.m3u8
