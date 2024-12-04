@@ -169,13 +169,13 @@ http://clubtv.link/oco1410/key4513/lista2.php?c=a01v&f=.m3u8&token=TecnotvSep260
 http://clubtv.link/jul2307/24.php?c=shy_ch_eurydice
 
 #EXTINF:-1 ,CINE mundo
-http://clubtv.link/oco1410/key4513/24.php?c=cinemundo_plus
+http://clubtv.link/dic0324/phpcode/24.php?c=cinemundo_plus&token=TecnotvGen00032&f=.m3u8
 
 #EXTINF:-1 ,futurama
 http://clubtv.link/dic0324/phpcode/24.php?c=futurama_mania_&token=TecnotvGen00032&f=.m3u8
 
 #EXTINF:-1 ,Películasmania
-http://clubtv.link/oco1410/key4513/24.php?c=peliculas_mania
+http://clubtv.link/dic0324/phpcode/24.php?c=peliculas_mania&token=TecnotvGen00032&f=.m3u8
 
 #EXTINF:-1 ,Terrormania 
  http://clubtv.link/oco1410/key4513/24.php?c=terror_mania
