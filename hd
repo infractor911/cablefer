@@ -184,13 +184,13 @@ http://clubtv.link/0612Dic/phpcode/lista.php?c=661&token=TecnotvGen0003003000333
 http://clubtv.link/0612Dic/phpcode/lista.php?c=416&token=TecnotvGen0003003000333&f=.m3u8
 
 #EXTINF:-1 ,CINE mundo
-http://clubtv.link/0612Dic/key4513/24.php?c=cinemundo_plus
+http://clubtv.link/0612Dic/phpcode/24.php?c=cinemundo_plus&token=TecnotvGen0003003000333&f=.m3u8
 
 #EXTINF:-1 ,futurama
-http://clubtv.link/0612Dic/phpcode/24.php?c=futurama_mania_&token=TecnotvGen&f=.m3u8
+http://clubtv.link/0612Dic/phpcode/24.php?c=futurama_mania_&token=TecnotvGen0003003000333&f=.m3u8
 
 #EXTINF:-1 ,Películasmania
-http://clubtv.link/0612Dic/key4513/24.php?c=peliculas_mania
+http://clubtv.link/0612Dic/phpcode/24.php?c=peliculas_mania&token=TecnotvGen0003003000333&f=.m3u8
 
 #EXTINF:-1 ,Terrormania 
- http://clubtv.link/0612Dic/key4513/24.php?c=terror_mania
+http://clubtv.link/0612Dic/phpcode/24.php?c=terror_mania&token=TecnotvGen0003003000333&f=.m3u8
