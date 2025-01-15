@@ -192,6 +192,9 @@ http://clubtv.link/TecnoTV1401/phpcode/lista.php?c=798&token=TecnoTVGENopl65161d
 #EXTINF:-1 ,ONE PUNCH MAN 
 http://clubtv.link/TecnoTV1401/phpcode/lista.php?c=661&token=TecnoTVGENopl65161dfgdfg&f=.m3u8
 
+#EXTINF:-1 ,ONE PUNCH MAN 1
+http://clubtv.link/TecnoTV1401/phpcode/android0.php?c=661&token=TecnoTVGENopl65161dfgdfg&f=.m3u8
+
 #EXTINF:-1 ,PADRE DE FAMILIA 
 http://clubtv.link/TecnoTV1401/phpcode/lista.php?c=416&token=TecnoTVGENopl65161dfgdfg&f=.m3u8
 
